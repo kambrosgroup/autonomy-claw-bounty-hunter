@@ -20,7 +20,7 @@ class SecurityBountyHunter:
         os.makedirs(self.data_dir, exist_ok=True)
         self.github_token = open('/secrets/github_token').read().strip()
         self.headers = {'Authorization': f'token {self.github_token}', 'Accept': 'application/vnd.github.v3+json'}
-        self.username = 'KarlAmbrosius'
+        self.username = 'kambrosgroup'
         
     def search_security_bounties(self) -> List[Dict]:
         """Search for security-related issues and bounties"""

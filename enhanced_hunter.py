@@ -23,7 +23,7 @@ class EnhancedBountyHunter:
         self.state = self.load_state()
         
         self.github_token = os.getenv('GITHUB_TOKEN') or self._read_secret('github_token')
-        self.github_username = 'KarlAmbrosius'
+        self.github_username = 'kambrosgroup'
         
         self.headers = {
             'Authorization': f'token {self.github_token}',

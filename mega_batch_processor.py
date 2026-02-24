@@ -16,7 +16,7 @@ sys.path.insert(0, '/agent/systems/bounty-hunter')
 from universal_fixer import UniversalFixer
 
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN') or open('/secrets/github_token').read().strip()
-USERNAME = 'KarlAmbrosius'
+USERNAME = 'kambrosgroup'
 REPOS_DIR = '/tmp/mega-batch-repos'
 
 # Top 1000 common GitHub issue search queries

@@ -15,7 +15,7 @@ sys.path.insert(0, '/agent/systems/bounty-hunter')
 from smart_fixer import SmartFixer
 
 GITHUB_TOKEN = open('/secrets/github_token').read().strip()
-USERNAME = 'KarlAmbrosius'
+USERNAME = 'kambrosgroup'
 REPOS_DIR = '/agent/systems/bounty-hunter/data/repos'
 
 def run_gh(args, cwd=None):

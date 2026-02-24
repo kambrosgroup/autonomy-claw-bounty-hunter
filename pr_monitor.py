@@ -18,7 +18,7 @@ class PRMonitor:
             'Authorization': f'token {self.github_token}',
             'Accept': 'application/vnd.github.v3+json'
         }
-        self.username = 'KarlAmbrosius'
+        self.username = 'kambrosgroup'
         
     def load_submissions(self) -> List[Dict]:
         """Load all PR submissions from metrics"""

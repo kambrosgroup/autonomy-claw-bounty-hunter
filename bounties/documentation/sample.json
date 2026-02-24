@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Add CHANGELOG.md following Keep a Changelog conventions",
+    "body": "Need to add a changelog file to track changes",
+    "url": "https://github.com/OtowoOrg/Stellar-K8s/issues/158",
+    "score": 40,
+    "confidence": 0.9
+  },
+  {
+    "title": "Fix typos in README",
+    "body": "There are spelling errors in the documentation",
+    "url": "https://github.com/test/repo/issues/1",
+    "score": 35,
+    "confidence": 0.85
+  }
+]

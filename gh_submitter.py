@@ -10,7 +10,7 @@ import json
 from datetime import datetime
 
 GITHUB_TOKEN = open('/secrets/github_token').read().strip()
-USERNAME = 'KarlAmbrosius'
+USERNAME = 'kambrosgroup'
 REPOS_DIR = '/agent/systems/bounty-hunter/data/repos'
 
 def run_gh_command(args, cwd=None, env=None):

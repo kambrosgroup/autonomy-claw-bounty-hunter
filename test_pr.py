@@ -35,7 +35,7 @@ def test_fork_and_push():
         fork_owner = fork_data['owner']['login']
     else:
         print(f"   ⚠️  Fork returned {response.status_code} - may already exist")
-        fork_owner = 'KarlAmbrosius'
+        fork_owner = 'kambrosgroup'
     
     # Step 2: Wait for fork
     print("\n2. Waiting for fork to be ready...")

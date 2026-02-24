@@ -13,7 +13,7 @@ from pathlib import Path
 
 # Configuration
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
-USERNAME = 'KarlAmbrosius'
+USERNAME = 'kambrosgroup'
 REPOS_DIR = '/tmp/bounty-repos'
 
 def run_gh(args, cwd=None):
