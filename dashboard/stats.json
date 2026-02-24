@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-02-24T17:37:33.793183",
+  "total_prs_submitted": 7,
+  "total_prs_merged": 0,
+  "total_bounties_found": 302,
+  "total_files_fixed": 220,
+  "estimated_earnings": 63,
+  "active_systems": 7,
+  "recent_activity": [
+    {
+      "repo": "Timi16/soroban-debugger",
+      "issue": "257",
+      "pr_url": "https://github.com/Timi16/soroban-debugger/pull/272",
+      "title": "Document All CLI Flags and Subcommands"
+    },
+    {
+      "repo": "Timi16/soroban-debugger",
+      "issue": "256",
+      "pr_url": "https://github.com/Timi16/soroban-debugger/pull/273",
+      "title": "Write Getting Started Guide"
+    },
+    {
+      "repo": "Timi16/soroban-debugger",
+      "issue": "194",
+      "pr_url": "https://github.com/Timi16/soroban-debugger/pull/274",
+      "title": "Add CHANGELOG.md and Release Notes"
+    },
+    {
+      "repo": "Timi16/soroban-debugger",
+      "issue": "192",
+      "pr_url": "https://github.com/Timi16/soroban-debugger/pull/275",
+      "title": "Add man Page Generation"
+    },
+    {
+      "repo": "OtowoOrg/Stellar-K8s",
+      "issue": "158",
+      "pr_url": "https://github.com/OtowoOrg/Stellar-K8s/pull/197",
+      "title": "Add CHANGELOG.md following Keep a Changelog conven"
+    }
+  ]
+}

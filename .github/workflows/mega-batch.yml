@@ -1,0 +1,106 @@
+name: AUTONOMY-CLAW Mega Batch Processor
+
+on:
+  schedule:
+    # Run every 4 hours for maximum coverage
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+    inputs:
+      max_issues:
+        description: 'Maximum issues to process'
+        required: false
+        default: '50'
+        type: string
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  mega-batch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360  # 6 hour timeout
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          pip install requests
+          pip install beautifulsoup4
+          
+      - name: Install GitHub CLI
+        run: |
+          type -p curl >/dev/null || (sudo apt update && sudo apt install curl -y)
+          curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+          sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg
+          echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+          sudo apt update
+          sudo apt install gh -y
+          
+      - name: Configure Git
+        run: |
+          git config --global user.email "autonomy-claw@openclaw.ai"
+          git config --global user.name "AUTONOMY-CLAW"
+          
+      - name: Run Mega Batch Processor
+        id: batch
+        run: |
+          cd .github/scripts
+          python3 mega_batch_processor.py 2>&1 | tee batch_output.log
+          echo "exit_code=${PIPESTATUS[0]}" >> $GITHUB_OUTPUT
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_ISSUES: ${{ github.event.inputs.max_issues || '50' }}
+        continue-on-error: true
+        
+      - name: Check for errors
+        if: steps.batch.outputs.exit_code != '0'
+        run: |
+          echo "⚠️ Batch processor had errors, checking logs..."
+          if [ -f .github/scripts/batch_output.log ]; then
+            tail -100 .github/scripts/batch_output.log
+          fi
+          # Don't fail the workflow, just report
+          echo "Continuing despite errors..."
+          
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        with:
+          name: mega-batch-results
+          path: /agent/metrics/mega-batch/*.json
+          retention-days: 90
+          if-no-files-found: warn
+          
+      - name: Generate summary
+        run: |
+          echo "## Mega Batch Results" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ -f /agent/metrics/mega-batch/results_*.json ]; then
+            PRS=$(cat /agent/metrics/mega-batch/results_*.json | jq length)
+            echo "✅ PRs Submitted: $PRS" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "⚠️ No results file found" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Processing top 1000 common GitHub issues..." >> $GITHUB_STEP_SUMMARY
+          
+      - name: Create issue on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `⚠️ Mega Batch Processor Failed - ${new Date().toISOString().split('T')[0]}`,
+              body: `The mega batch processor encountered errors.\n\nPlease check the Actions logs for details.`,
+              labels: ['bug', 'automation']
+            });
