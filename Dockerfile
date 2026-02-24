@@ -31,9 +31,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy Python files
 COPY *.py ./
 
-# Copy scripts if they exist (using shell form to avoid quote issues)
-RUN mkdir -p scripts
-COPY .github/scripts/*.py ./scripts/ 2>/dev/null || true
+# Copy scripts directory if it exists
+COPY .github/scripts/ ./scripts/
 
 # Create necessary directories
 RUN mkdir -p /app/bounties /app/submissions /app/monitoring /app/repos /app/metrics /tmp/bounty-repos \
