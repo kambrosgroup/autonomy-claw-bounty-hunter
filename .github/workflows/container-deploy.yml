@@ -20,6 +20,7 @@ jobs:
     permissions:
       contents: read
       packages: write
+      statuses: write
       
     steps:
       - name: Checkout repository
@@ -70,19 +71,8 @@ jobs:
           
       - name: Verify push
         run: |
-          echo "Image pushed to: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest"
-          
-      - name: Create deployment notification
-        if: success()
-        uses: actions/github-script@v7
-        with:
-          script: |
-            github.rest.repos.createCommitStatus({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              sha: context.sha,
-              state: 'success',
-              context: 'Bounty Hunter Container',
-              description: 'Container built and pushed to GHCR by Karl Ambrosius',
-              target_url: `https://github.com/${context.repo.owner}/${context.repo.repo}/pkgs/container/bounty-hunter`
-            });
+          echo "✅ Container built and pushed successfully!"
+          echo "Image: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest"
+          echo ""
+          echo "👤 Karl Ambrosius"
+          echo "💰 karlambrosius@outlook.com.au"
