@@ -31,9 +31,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy Python files
 COPY *.py ./
 
-# Copy scripts if they exist
+# Copy scripts if they exist (using shell form to avoid quote issues)
 RUN mkdir -p scripts
-COPY .github/scripts/*.py ./scripts/ 2>/dev/null || echo "No scripts to copy"
+COPY .github/scripts/*.py ./scripts/ 2>/dev/null || true
 
 # Create necessary directories
 RUN mkdir -p /app/bounties /app/submissions /app/monitoring /app/repos /app/metrics /tmp/bounty-repos \
@@ -53,5 +53,3 @@ HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
 
 # Default command
 CMD ["python3", "/app/container_entry.py"]
-
-# Trigger build: Tue Feb 24 06:04:29 PM CST 2026

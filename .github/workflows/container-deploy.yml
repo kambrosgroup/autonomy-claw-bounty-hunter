@@ -86,16 +86,3 @@ jobs:
               description: 'Container built and pushed to GHCR by Karl Ambrosius',
               target_url: `https://github.com/${context.repo.owner}/${context.repo.repo}/pkgs/container/bounty-hunter`
             });
-            
-      - name: Notify on failure
-        if: failure()
-        uses: actions/github-script@v7
-        with:
-          script: |
-            github.rest.issues.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              title: `❌ Container Build Failed - ${new Date().toISOString().split('T')[0]}`,
-              body: `Docker build and push failed.\n\nPlease check the Actions logs for details.\n\n👤 Karl Ambrosius`,
-              labels: ['bug', 'container']
-            });
