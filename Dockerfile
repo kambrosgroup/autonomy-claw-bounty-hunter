@@ -52,3 +52,5 @@ HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
 
 # Default command
 CMD ["python3", "/app/container_entry.py"]
+
+# Build timestamp: 2026-02-24T10:12:35Z
