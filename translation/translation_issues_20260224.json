@@ -13,17 +13,17 @@
     "score": 20
   },
   {
-    "id": 3980267276,
-    "title": "[MINOR][Bug] Missing German translation for 'Try again' key",
-    "url": "https://github.com/gerasem/payload-vue-shop/issues/57",
-    "repo": "payload-vue-shop",
+    "id": 1427116927,
+    "title": "Broken links in the Spanish version of the Plugins page in Calypso",
+    "url": "https://github.com/Automattic/wp-calypso/issues/69564",
+    "repo": "wp-calypso",
     "labels": [
-      "bug",
-      "frontend",
-      "minor",
-      "i18n"
+      "[pri] normal",
+      "i18n",
+      "customer report [legacy]",
+      "wordpress.com"
     ],
-    "language": "german",
+    "language": "spanish",
     "score": 20
   },
   {
@@ -63,6 +63,33 @@
       "localization"
     ],
     "language": "russian",
+    "score": 20
+  },
+  {
+    "id": 3937839464,
+    "title": "Add Portuguese interface translation",
+    "url": "https://github.com/bibliogenius/bibliogenius-app/issues/2",
+    "repo": "bibliogenius-app",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "translation"
+    ],
+    "language": "portuguese",
+    "score": 20
+  },
+  {
+    "id": 3920442636,
+    "title": "[$250] Expense - In view:line chart, month is not displayed correctly in Chinese/Japanese language.",
+    "url": "https://github.com/Expensify/App/issues/81952",
+    "repo": "App",
+    "labels": [
+      "external",
+      "daily",
+      "help wanted",
+      "bug"
+    ],
+    "language": "chinese",
     "score": 20
   },
   {
@@ -299,37 +326,24 @@
     "score": 10
   },
   {
+    "id": 3976523192,
+    "title": "Add native support for i18n",
+    "url": "https://github.com/nesalia-inc/collections/issues/6",
+    "repo": "collections",
+    "labels": [
+      "enhancement",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
     "id": 3975563143,
     "title": "Add language support for static pages",
     "url": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/949",
     "repo": "openfoodfacts-explorer",
     "labels": [
       "\ud83c\udf10 translations",
-      "i18n"
-    ],
-    "language": null,
-    "score": 10
-  },
-  {
-    "id": 3979862501,
-    "title": "Hardcoded lang=\"en\" in app.html ignores user locale",
-    "url": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/966",
-    "repo": "openfoodfacts-explorer",
-    "labels": [
-      "\ud83c\udf10 translations",
-      "i18n"
-    ],
-    "language": null,
-    "score": 10
-  },
-  {
-    "id": 3981663371,
-    "title": "some >90% translated languages are not included in GTK i18n",
-    "url": "https://github.com/transmission/transmission/issues/8608",
-    "repo": "transmission",
-    "labels": [
-      "bug",
-      "scope:gtk",
       "i18n"
     ],
     "language": null,
@@ -352,209 +366,242 @@
     "score": 10
   },
   {
-    "id": 3978087315,
-    "title": "Incorrect lang attribute in root <html> element",
-    "url": "https://github.com/element-hq/element-web/issues/32603",
-    "repo": "element-web",
+    "id": 3971454153,
+    "title": "Leverage inbuilt github formatter for textlint",
+    "url": "https://github.com/open-telemetry/opentelemetry.io/issues/9242",
+    "repo": "opentelemetry.io",
     "labels": [
-      "t-defect",
-      "s-major",
-      "i18n",
-      "o-occasional"
+      "i18n"
     ],
     "language": null,
     "score": 10
   },
   {
-    "id": 103429453,
-    "title": "Add support for right-to-left text",
-    "url": "https://github.com/dompdf/dompdf/issues/1009",
-    "repo": "dompdf",
+    "id": 3962995229,
+    "title": "Website Localizations: Steps forward to make teams more independent of docs-maintainers",
+    "url": "https://github.com/open-telemetry/opentelemetry.io/issues/9219",
+    "repo": "opentelemetry.io",
+    "labels": [
+      "ci/infra",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3960754650,
+    "title": "Implement Language Selector",
+    "url": "https://github.com/Farm-credit/stellar-app-os/issues/81",
+    "repo": "stellar-app-os",
+    "labels": [
+      "stellar wave",
+      "frontend",
+      "feature",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 126261129,
+    "title": "Checkout: add currency selector",
+    "url": "https://github.com/Automattic/wp-calypso/issues/2342",
+    "repo": "wp-calypso",
     "labels": [
       "enhancement",
-      "i18n"
+      "[pri] normal",
+      "i18n",
+      "[feature] checkout",
+      "customer report [legacy]",
+      "wordpress.com"
     ],
     "language": null,
     "score": 10
   },
   {
-    "id": 3980266733,
-    "title": "[MINOR][Bug] Low stock badge text in cart not internationalized",
-    "url": "https://github.com/gerasem/payload-vue-shop/issues/54",
-    "repo": "payload-vue-shop",
-    "labels": [
-      "bug",
-      "frontend",
-      "minor",
-      "i18n"
-    ],
-    "language": null,
-    "score": 10
-  },
-  {
-    "id": 3980266536,
-    "title": "[MINOR][Bug] Hardcoded homepage path checks in app.vue break with locale changes",
-    "url": "https://github.com/gerasem/payload-vue-shop/issues/53",
-    "repo": "payload-vue-shop",
-    "labels": [
-      "bug",
-      "frontend",
-      "minor",
-      "i18n"
-    ],
-    "language": null,
-    "score": 10
-  },
-  {
-    "id": 3980265722,
-    "title": "[MINOR][Bug] Zod validation schemas with translated messages freeze at initial locale",
-    "url": "https://github.com/gerasem/payload-vue-shop/issues/49",
-    "repo": "payload-vue-shop",
-    "labels": [
-      "bug",
-      "frontend",
-      "minor",
-      "i18n"
-    ],
-    "language": null,
-    "score": 10
-  },
-  {
-    "id": 3980260588,
-    "title": "[MAJOR][Bug] Cookie banner and auth page links use hardcoded paths instead of localePath()",
-    "url": "https://github.com/gerasem/payload-vue-shop/issues/27",
-    "repo": "payload-vue-shop",
-    "labels": [
-      "bug",
-      "frontend",
-      "major",
-      "i18n"
-    ],
-    "language": null,
-    "score": 10
-  },
-  {
-    "id": 3976524562,
-    "title": "The login page is not opening in the desired language.",
-    "url": "https://github.com/apache/superset/issues/38178",
-    "repo": "superset",
-    "labels": [
-      "i18n"
-    ],
-    "language": null,
-    "score": 10
-  },
-  {
-    "id": 3914062119,
-    "title": "We're due for a more structured translation process",
-    "url": "https://github.com/npmx-dev/npmx.dev/issues/1253",
-    "repo": "npmx.dev",
-    "labels": [
-      "i18n"
-    ],
-    "language": null,
-    "score": 10
-  },
-  {
-    "id": 3670774284,
-    "title": "Export datasets depending on the country_portal (and other factors)",
-    "url": "https://github.com/betagouv/ComparIA/issues/194",
-    "repo": "ComparIA",
+    "id": 793477403,
+    "title": "Update needed for Two-Step authentication in El Salvador",
+    "url": "https://github.com/Automattic/wp-calypso/issues/49264",
+    "repo": "wp-calypso",
     "labels": [
       "i18n",
-      "dataset/db"
+      "customer report [legacy]",
+      "untranslated text",
+      "wordpress.com",
+      "features 2fa"
     ],
     "language": null,
     "score": 10
   },
   {
-    "id": 3646427013,
-    "title": "New feature : Add possibility to have specific models only appear in some or a few languages",
-    "url": "https://github.com/betagouv/ComparIA/issues/171",
-    "repo": "ComparIA",
+    "id": 723351742,
+    "title": "2FA Validation: Hungary number not validating",
+    "url": "https://github.com/Automattic/wp-calypso/issues/46531",
+    "repo": "wp-calypso",
     "labels": [
-      "priority::medium",
-      "models",
-      "i18n"
-    ],
-    "language": null,
-    "score": 10
-  },
-  {
-    "id": 3940145100,
-    "title": "LEO WINDOW BUG",
-    "url": "https://github.com/brave/brave-browser/issues/52863",
-    "repo": "brave-browser",
-    "labels": [
-      "qa/yes",
-      "release-notes/include",
-      "os/desktop",
-      "feature/sidebar",
-      "i18n"
-    ],
-    "language": null,
-    "score": 10
-  },
-  {
-    "id": 3547869495,
-    "title": "Website redesign",
-    "url": "https://github.com/django/djangoproject.com/issues/2287",
-    "repo": "djangoproject.com",
-    "labels": [
-      "in progress",
-      "styles",
-      "accessibility",
-      "new feature",
-      "trac",
-      "blog",
-      "docs",
-      "search",
-      "fundraising",
+      "[pri] low",
       "i18n",
-      "members",
-      "non-code-contribution",
-      "user research",
-      "content",
-      "ux",
-      "ops",
-      "internal"
+      "customer report [legacy]",
+      "number format",
+      "wordpress.com",
+      "security (new)",
+      "features 2fa"
     ],
     "language": null,
     "score": 10
   },
   {
-    "id": 3848002040,
-    "title": "I18n (da/en)",
-    "url": "https://github.com/Frigear-nu/nuxt-frigear-nu/issues/95",
-    "repo": "nuxt-frigear-nu",
+    "id": 794969524,
+    "title": "Update needed for Two-Step authentication in Dominican Republic",
+    "url": "https://github.com/Automattic/wp-calypso/issues/49338",
+    "repo": "wp-calypso",
     "labels": [
-      "enhancement",
-      "good first issue",
+      "[pri] normal",
+      "i18n",
+      "customer report [legacy]",
+      "untranslated text",
+      "wordpress.com",
+      "features 2fa"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 1015343408,
+    "title": "[Bug]: Zero-width non-joiner Character in Persian",
+    "url": "https://github.com/Automattic/wp-calypso/issues/56755",
+    "repo": "wp-calypso",
+    "labels": [
+      "[pri] normal",
+      "i18n",
+      "customer report [legacy]",
+      "wordpress.com"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 1083967767,
+    "title": "Italian localization issue verb conjugation for blog subscribe emails",
+    "url": "https://github.com/Automattic/wp-calypso/issues/59385",
+    "repo": "wp-calypso",
+    "labels": [
+      "[pri] normal",
+      "i18n",
+      "customer report [legacy]",
+      "wordpress.com"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3785132610,
+    "title": "translation of transcription title, intro",
+    "url": "https://github.com/suitenumerique/meet/issues/836",
+    "repo": "meet",
+    "labels": [
       "i18n"
     ],
     "language": null,
     "score": 10
   },
   {
-    "id": 3973088277,
-    "title": "Apply `lang` to localized `name:*` values",
-    "url": "https://github.com/openstreetmap/openstreetmap-website/issues/6834",
-    "repo": "openstreetmap-website",
+    "id": 1184066291,
+    "title": "Paragraph Block: Add direction option to paragraph block, even if the site isn't set to an RTL language",
+    "url": "https://github.com/Automattic/wp-calypso/issues/62319",
+    "repo": "wp-calypso",
     "labels": [
-      "ui",
+      "i18n",
+      "feature request",
+      "blocks",
+      "customer report [legacy]",
+      "wordpress.com"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 1352962200,
+    "title": "Font size setting missing from Typography in paragraph block when interface language is set to Polski",
+    "url": "https://github.com/Automattic/wp-calypso/issues/67065",
+    "repo": "wp-calypso",
+    "labels": [
+      "[pri] normal",
+      "i18n",
+      "blocks",
+      "customer report [legacy]",
+      "[platform] simple",
+      "[platform] atomic",
+      "wordpress.com"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 1333960708,
+    "title": "Payment method: Allow UPI payment from India",
+    "url": "https://github.com/Automattic/wp-calypso/issues/66430",
+    "repo": "wp-calypso",
+    "labels": [
+      "i18n",
+      "[feature group] wpcom store & purchases",
+      "payment methods",
+      "feature request",
+      "customer report [legacy]",
+      "wordpress.com"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 1409820627,
+    "title": "Notification Email: The `New Post` subscription email doesn't translate Footer section to site language",
+    "url": "https://github.com/Automattic/wp-calypso/issues/69093",
+    "repo": "wp-calypso",
+    "labels": [
+      "[pri] low",
+      "i18n",
+      "email",
+      "customer report [legacy]",
+      "[platform] atomic",
+      "wordpress.com"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 1632281554,
+    "title": "Translation dropdown content on the Support Page not visible",
+    "url": "https://github.com/Automattic/wp-calypso/issues/74655",
+    "repo": "wp-calypso",
+    "labels": [
+      "[pri] normal",
+      "i18n",
+      "customer report [legacy]",
+      "wordpress.com"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3979862501,
+    "title": "Hardcoded lang=\"en\" in app.html ignores user locale",
+    "url": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/966",
+    "repo": "openfoodfacts-explorer",
+    "labels": [
+      "\ud83c\udf10 translations",
       "i18n"
     ],
     "language": null,
     "score": 10
   },
   {
-    "id": 3973086092,
-    "title": "Backend/i18n: Support detecting string lookup fallbacks",
-    "url": "https://github.com/Couchers-org/couchers/issues/7949",
-    "repo": "couchers",
+    "id": 3769235920,
+    "title": "separate the rendering of `name:*` tags from iD's UI translations",
+    "url": "https://github.com/openstreetmap/iD/issues/11730",
+    "repo": "iD",
     "labels": [
-      "1.topic backend",
-      "i18n"
+      "localization"
     ],
     "language": null,
     "score": 10
@@ -762,18 +809,6 @@
     "score": 10
   },
   {
-    "id": 2943538137,
-    "title": "Localization with relaxed constraint on binned exposure map",
-    "url": "https://github.com/fermiPy/fermipy/issues/635",
-    "repo": "fermipy",
-    "labels": [
-      "enhancement",
-      "localization"
-    ],
-    "language": null,
-    "score": 10
-  },
-  {
     "id": 3975563143,
     "title": "Add language support for static pages",
     "url": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/949",
@@ -795,6 +830,17 @@
       "stale",
       "\ud83d\udd12 maintainer only",
       "workstream-rollup"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3982085920,
+    "title": "Homepage appearing in the translation field when editing a deleted sentence",
+    "url": "https://github.com/Tatoeba/tatoeba2/issues/3257",
+    "repo": "tatoeba2",
+    "labels": [
+      "bug"
     ],
     "language": null,
     "score": 10
@@ -818,67 +864,6 @@
     "score": 10
   },
   {
-    "id": 3982085920,
-    "title": "Hoempage appearing in the translation field when editing a deleted sentence",
-    "url": "https://github.com/Tatoeba/tatoeba2/issues/3257",
-    "repo": "tatoeba2",
-    "labels": [
-      "bug"
-    ],
-    "language": null,
-    "score": 10
-  },
-  {
-    "id": 3976193640,
-    "title": "I18n support",
-    "url": "https://github.com/vincentmakes/turbo-ea/issues/305",
-    "repo": "turbo-ea",
-    "labels": [],
-    "language": null,
-    "score": 10
-  },
-  {
-    "id": 3902512558,
-    "title": "Language/Translation Feature",
-    "url": "https://github.com/reconurge/flowsint/issues/116",
-    "repo": "flowsint",
-    "labels": [],
-    "language": null,
-    "score": 10
-  },
-  {
-    "id": 3981777086,
-    "title": "feat: add trench translation",
-    "url": "https://github.com/KelRot/rebuilt-2026/issues/9",
-    "repo": "rebuilt-2026",
-    "labels": [],
-    "language": null,
-    "score": 10
-  },
-  {
-    "id": 2613481022,
-    "title": "Complete translations, review them or add new languages",
-    "url": "https://github.com/bit-team/backintime/issues/1915",
-    "repo": "backintime",
-    "labels": [
-      "good first issue",
-      "help-wanted",
-      "translation",
-      "no code"
-    ],
-    "language": null,
-    "score": 10
-  },
-  {
-    "id": 3981648232,
-    "title": "In README.md add A note about internationalization OR how to contribute translation",
-    "url": "https://github.com/openmultiplayer/launcher/issues/380",
-    "repo": "launcher",
-    "labels": [],
-    "language": null,
-    "score": 10
-  },
-  {
     "id": 3975563143,
     "title": "Add language support for static pages",
     "url": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/949",
@@ -891,10 +876,10 @@
     "score": 10
   },
   {
-    "id": 3980742130,
-    "title": "Missing text for translations",
-    "url": "https://github.com/kairusds/Hachimi-Edge/issues/47",
-    "repo": "Hachimi-Edge",
+    "id": 3982496781,
+    "title": "Missing translations",
+    "url": "https://github.com/vuetifyjs/cli/issues/4",
+    "repo": "cli",
     "labels": [],
     "language": null,
     "score": 10
@@ -914,6 +899,18 @@
     "score": 10
   },
   {
+    "id": 3958900481,
+    "title": "[Enhancement]: Use `react-i18next` for translations",
+    "url": "https://github.com/PretendoNetwork/juxtaposition/issues/366",
+    "repo": "juxtaposition",
+    "labels": [
+      "enhancement",
+      "approved"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
     "id": 3954823082,
     "title": "\ud83c\udf0d Update translations for optimizing-webgl-sketches.mdx",
     "url": "https://github.com/processing/p5.js-website/issues/1174",
@@ -925,6 +922,15 @@
       "lang-ko",
       "lang-zh-hans"
     ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3980742130,
+    "title": "Missing text for translations",
+    "url": "https://github.com/kairusds/Hachimi-Edge/issues/47",
+    "repo": "Hachimi-Edge",
+    "labels": [],
     "language": null,
     "score": 10
   }

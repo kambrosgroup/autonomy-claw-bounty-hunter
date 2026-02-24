@@ -1,5 +1,91 @@
 [
   {
+    "id": 3981967815,
+    "title": "Test coverage: CreatorActionsMenu \u2014 admin operations untested",
+    "url": "https://github.com/JovieInc/Jovie/issues/4366",
+    "repo": "Jovie",
+    "labels": [
+      "tests",
+      "testing",
+      "stability-audit"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3981970171,
+    "title": "Test coverage: ContactSidebar \u2014 contact management invisible to tests",
+    "url": "https://github.com/JovieInc/Jovie/issues/4370",
+    "repo": "Jovie",
+    "labels": [
+      "type:test",
+      "tests",
+      "testing",
+      "stability-audit"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3981968912,
+    "title": "Test coverage: RightDrawer + DrawerNav \u2014 core navigation untested",
+    "url": "https://github.com/JovieInc/Jovie/issues/4368",
+    "repo": "Jovie",
+    "labels": [
+      "ui-nav",
+      "tests",
+      "testing",
+      "stability-audit"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3981968345,
+    "title": "Test coverage: TableActionMenu \u2014 bulk admin actions untested",
+    "url": "https://github.com/JovieInc/Jovie/issues/4367",
+    "repo": "Jovie",
+    "labels": [
+      "tests",
+      "testing",
+      "stability-audit"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3981971173,
+    "title": "Test coverage: LinkActions \u2014 only keyboard tested, click interactions missing",
+    "url": "https://github.com/JovieInc/Jovie/issues/4372",
+    "repo": "Jovie",
+    "labels": [
+      "tests",
+      "testing",
+      "stability-audit"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3981970737,
+    "title": "Test coverage: SidebarLinkRow \u2014 core link editing UX untested",
+    "url": "https://github.com/JovieInc/Jovie/issues/4371",
+    "repo": "Jovie",
+    "labels": [
+      "tests",
+      "testing",
+      "stability-audit"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3981969598,
+    "title": "Test coverage: ReleaseSidebar links tab + ReleaseDspLinks \u2014 DSP management untested",
+    "url": "https://github.com/JovieInc/Jovie/issues/4369",
+    "repo": "Jovie",
+    "labels": [
+      "tests",
+      "testing",
+      "stability-audit"
+    ],
+    "score": 25
+  },
+  {
     "id": 3982256208,
     "title": "[TASK] Complete test coverage for Stacked and Diminishing layouts",
     "url": "https://github.com/wkusnierczyk/garmin-piechart-time/issues/24",
@@ -47,92 +133,6 @@
     "score": 25
   },
   {
-    "id": 3981970171,
-    "title": "Test coverage: ContactSidebar \u2014 contact management invisible to tests",
-    "url": "https://github.com/JovieInc/Jovie/issues/4370",
-    "repo": "Jovie",
-    "labels": [
-      "type:test",
-      "tests",
-      "testing",
-      "stability-audit"
-    ],
-    "score": 25
-  },
-  {
-    "id": 3981970737,
-    "title": "Test coverage: SidebarLinkRow \u2014 core link editing UX untested",
-    "url": "https://github.com/JovieInc/Jovie/issues/4371",
-    "repo": "Jovie",
-    "labels": [
-      "tests",
-      "testing",
-      "stability-audit"
-    ],
-    "score": 25
-  },
-  {
-    "id": 3981971173,
-    "title": "Test coverage: LinkActions \u2014 only keyboard tested, click interactions missing",
-    "url": "https://github.com/JovieInc/Jovie/issues/4372",
-    "repo": "Jovie",
-    "labels": [
-      "tests",
-      "testing",
-      "stability-audit"
-    ],
-    "score": 25
-  },
-  {
-    "id": 3981969598,
-    "title": "Test coverage: ReleaseSidebar links tab + ReleaseDspLinks \u2014 DSP management untested",
-    "url": "https://github.com/JovieInc/Jovie/issues/4369",
-    "repo": "Jovie",
-    "labels": [
-      "tests",
-      "testing",
-      "stability-audit"
-    ],
-    "score": 25
-  },
-  {
-    "id": 3981968345,
-    "title": "Test coverage: TableActionMenu \u2014 bulk admin actions untested",
-    "url": "https://github.com/JovieInc/Jovie/issues/4367",
-    "repo": "Jovie",
-    "labels": [
-      "tests",
-      "testing",
-      "stability-audit"
-    ],
-    "score": 25
-  },
-  {
-    "id": 3981967815,
-    "title": "Test coverage: CreatorActionsMenu \u2014 admin operations untested",
-    "url": "https://github.com/JovieInc/Jovie/issues/4366",
-    "repo": "Jovie",
-    "labels": [
-      "tests",
-      "testing",
-      "stability-audit"
-    ],
-    "score": 25
-  },
-  {
-    "id": 3981968912,
-    "title": "Test coverage: RightDrawer + DrawerNav \u2014 core navigation untested",
-    "url": "https://github.com/JovieInc/Jovie/issues/4368",
-    "repo": "Jovie",
-    "labels": [
-      "ui-nav",
-      "tests",
-      "testing",
-      "stability-audit"
-    ],
-    "score": 25
-  },
-  {
     "id": 3981969598,
     "title": "Test coverage: ReleaseSidebar links tab + ReleaseDspLinks \u2014 DSP management untested",
     "url": "https://github.com/JovieInc/Jovie/issues/4369",
@@ -157,19 +157,6 @@
     "score": 25
   },
   {
-    "id": 3982206881,
-    "title": "Improve Playwright test coverage: un-skip main-site tests, add missing regression tests",
-    "url": "https://github.com/DigitalHumanitiesCraft/mhdbdb-tei-only/issues/43",
-    "repo": "mhdbdb-tei-only",
-    "labels": [
-      "frontend",
-      "pipeline",
-      "claude-ready",
-      "effort:large"
-    ],
-    "score": 25
-  },
-  {
     "id": 3982136731,
     "title": "[Frontend] E2E and component tests",
     "url": "https://github.com/MetroLogic/fluxapay/issues/128",
@@ -179,6 +166,22 @@
       "frontend",
       "steller wave",
       "medium",
+      "testing"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3640516988,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/Wikid82/Charon/issues/65",
+    "repo": "Charon",
+    "labels": [
+      "backend",
+      "frontend",
+      "security",
+      "ssl",
+      "crowdsec",
+      "caddy",
       "testing"
     ],
     "score": 15
@@ -269,22 +272,6 @@
     "score": 15
   },
   {
-    "id": 3640516988,
-    "title": "Dependency Dashboard",
-    "url": "https://github.com/Wikid82/Charon/issues/65",
-    "repo": "Charon",
-    "labels": [
-      "backend",
-      "frontend",
-      "security",
-      "ssl",
-      "crowdsec",
-      "caddy",
-      "testing"
-    ],
-    "score": 15
-  },
-  {
     "id": 3843239451,
     "title": "Research - how to test SLDS components in all frameworks without maintaining multiple Storybooks",
     "url": "https://github.com/sl-design-system/components/issues/2942",
@@ -292,6 +279,19 @@
     "labels": [
       "testing",
       "triage"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3093446783,
+    "title": "Files Recent Plugin Test Improvements & Extensions",
+    "url": "https://github.com/hiero-ledger/hiero-block-node/issues/1208",
+    "repo": "hiero-block-node",
+    "labels": [
+      "tests",
+      "block node",
+      "good contribution",
+      "blocksfilesrecent plugin"
     ],
     "score": 15
   },
@@ -505,67 +505,91 @@
     "score": 15
   },
   {
-    "id": 2596091966,
-    "title": "Create more unit tests",
-    "url": "https://github.com/learning-unlimited/ESP-Website/issues/3780",
-    "repo": "ESP-Website",
+    "id": 3973665511,
+    "title": "Create test suite for staking contract template",
+    "url": "https://github.com/0xVida/stellar-suite/issues/208",
+    "repo": "stellar-suite",
     "labels": [
-      "infrastructure",
-      "tests",
-      "starter",
-      "gsoc 2026"
+      "stellar wave"
     ],
     "score": 15
   },
   {
-    "id": 3793076155,
-    "title": "Capsule Update using CapsuleApp.efi fails *sometimes*",
-    "url": "https://github.com/Dasharo/dasharo-issues/issues/1730",
-    "repo": "dasharo-issues",
+    "id": 2126217537,
+    "title": "[7.0] Could not find a part of the path in System.IO.Tests.FileSystemWatcherTests.FileSystemWatcher_Directory_Delete_MultipleFilters",
+    "url": "https://github.com/dotnet/runtime/issues/98193",
+    "repo": "runtime",
     "labels": [
-      "bug",
-      "needs review",
-      "needs testing",
-      "needs reproduction"
+      "arch-x86",
+      "area-system.io",
+      "os-windows",
+      "runtime-coreclr",
+      "known build error"
     ],
     "score": 15
   },
   {
-    "id": 2972518497,
-    "title": "V54: BIOS settings are randomly reset",
-    "url": "https://github.com/Dasharo/dasharo-issues/issues/1293",
-    "repo": "dasharo-issues",
+    "id": 3973665511,
+    "title": "Create test suite for staking contract template",
+    "url": "https://github.com/0xVida/stellar-suite/issues/208",
+    "repo": "stellar-suite",
     "labels": [
-      "bug",
-      "firmware",
-      "novacustom_v54_mtl",
-      "needs testing"
+      "stellar wave"
     ],
     "score": 15
   },
   {
-    "id": 3981284435,
-    "title": "Test Quality: Fix flaky test patterns (sleep/timing)",
-    "url": "https://github.com/T-rav/hyrda/issues/1043",
-    "repo": "hyrda",
+    "id": 3973666282,
+    "title": "Create test suite for auction contract template",
+    "url": "https://github.com/0xVida/stellar-suite/issues/209",
+    "repo": "stellar-suite",
     "labels": [
-      "hydraflow-hitl"
+      "stellar wave"
     ],
     "score": 15
   },
   {
-    "id": 3982331580,
-    "title": "Task: enforce live E2E fail-closed execution in CI with local Kolme orchestration",
-    "url": "https://github.com/njfio/kamn/issues/5868",
-    "repo": "kamn",
+    "id": 3977120437,
+    "title": "Add continuous fuzz testing pipeline for contracts",
+    "url": "https://github.com/Stellar-Teye/Teye-Contracts/issues/121",
+    "repo": "Teye-Contracts",
     "labels": [
-      "type:task",
+      "stellar wave",
+      "high complexity",
+      "devops"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3982658509,
+    "title": "P3-IT-006: Fuzz Testing",
+    "url": "https://github.com/flexyledger/defi-yield-aggregator/issues/41",
+    "repo": "defi-yield-aggregator",
+    "labels": [
+      "enhancement"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3981561385,
+    "title": "[Integration DoD][MW-07] Add MCP config-to-runtime attach e2e validation",
+    "url": "https://github.com/milady-ai/milady/issues/529",
+    "repo": "milady",
+    "labels": [
+      "integration-dod-gap",
       "priority:p1",
-      "area:qa",
-      "process:tdd",
-      "status:specifying",
-      "process:spec-driven"
+      "area:api",
+      "owner:api",
+      "gap:mw-07"
     ],
+    "score": 15
+  },
+  {
+    "id": 3982614475,
+    "title": "Reorganize local test scripts into scripts/local/",
+    "url": "https://github.com/aicers/bootroot/issues/320",
+    "repo": "bootroot",
+    "labels": [],
     "score": 15
   },
   {

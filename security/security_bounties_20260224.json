@@ -1,119 +1,28 @@
 [
   {
-    "id": 3803187044,
-    "title": "[Trivy] gastown-dev: 1 critical vulnerability,13 high vulnerabilities found",
-    "url": "https://github.com/anthony-spruyt/container-images/issues/115",
-    "repo": "container-images",
-    "bounty_amount": null,
+    "id": 3978938500,
+    "title": "[RegisterSec] Break free of Ring's servers, earn a five-figure bounty",
+    "url": "https://github.com/SecOpsNews/news/issues/64492",
+    "repo": "news",
+    "bounty_amount": 10000.0,
     "labels": [
-      "security",
-      "trivy",
-      "high",
-      "medium",
-      "critical"
+      "registersec"
     ],
     "is_security": true,
-    "score": 80,
+    "score": 100.0,
     "platform": "github"
   },
   {
-    "id": 3832251235,
-    "title": "[Trivy] megalinter-container-images: 2 critical vulnerabilities,26 high vulnerabilities found",
-    "url": "https://github.com/anthony-spruyt/container-images/issues/217",
-    "repo": "container-images",
-    "bounty_amount": null,
+    "id": 3980177416,
+    "title": "[RegisterSec] Break free of Ring's servers, earn a five-figure bounty",
+    "url": "https://github.com/SecOpsNews/news/issues/64541",
+    "repo": "news",
+    "bounty_amount": 10000.0,
     "labels": [
-      "security",
-      "trivy",
-      "high",
-      "medium",
-      "critical"
+      "registersec"
     ],
     "is_security": true,
-    "score": 80,
-    "platform": "github"
-  },
-  {
-    "id": 3863807402,
-    "title": "[Trivy] megalinter-xfg: 2 critical vulnerabilities,26 high vulnerabilities found",
-    "url": "https://github.com/anthony-spruyt/container-images/issues/310",
-    "repo": "container-images",
-    "bounty_amount": null,
-    "labels": [
-      "security",
-      "trivy",
-      "high",
-      "medium",
-      "critical"
-    ],
-    "is_security": true,
-    "score": 80,
-    "platform": "github"
-  },
-  {
-    "id": 3859035775,
-    "title": "[Trivy] megalinter-claude-config: 2 critical vulnerabilities,26 high vulnerabilities found",
-    "url": "https://github.com/anthony-spruyt/container-images/issues/278",
-    "repo": "container-images",
-    "bounty_amount": null,
-    "labels": [
-      "security",
-      "trivy",
-      "high",
-      "medium",
-      "critical"
-    ],
-    "is_security": true,
-    "score": 80,
-    "platform": "github"
-  },
-  {
-    "id": 3803693225,
-    "title": "[Trivy] firemerge: 1 critical vulnerability,6 high vulnerabilities found",
-    "url": "https://github.com/anthony-spruyt/container-images/issues/127",
-    "repo": "container-images",
-    "bounty_amount": null,
-    "labels": [
-      "security",
-      "trivy",
-      "high",
-      "medium",
-      "critical"
-    ],
-    "is_security": true,
-    "score": 80,
-    "platform": "github"
-  },
-  {
-    "id": 3960926083,
-    "title": "\ud83d\udea8 Critical Security Vulnerabilities Detected (0 Critical, 1 High)",
-    "url": "https://github.com/XiSenao/docs-islands/issues/52",
-    "repo": "docs-islands",
-    "bounty_amount": null,
-    "labels": [
-      "automated",
-      "security",
-      "critical"
-    ],
-    "is_security": true,
-    "score": 80,
-    "platform": "github"
-  },
-  {
-    "id": 3287874691,
-    "title": "\ud83d\udd10 Secure Infrastructure Configuration & Secrets Management",
-    "url": "https://github.com/idealase/idealase.github.io/issues/24",
-    "repo": "idealase.github.io",
-    "bounty_amount": null,
-    "labels": [
-      "security",
-      "critical",
-      "infrastructure",
-      "secrets",
-      "devops"
-    ],
-    "is_security": true,
-    "score": 50,
+    "score": 100.0,
     "platform": "github"
   },
   {
@@ -131,55 +40,31 @@
     "platform": "github"
   },
   {
-    "id": 1142478572,
-    "title": "lerna-4.0.0.tgz: 38 vulnerabilities (highest severity is: 9.8)",
-    "url": "https://github.com/yydso/origin.js/issues/3",
-    "repo": "origin.js",
+    "id": 3982658970,
+    "title": "nltk-3.3.0-py37_0.tar.bz2: 8 vulnerabilities (highest severity is: 10.0) [main]",
+    "url": "https://github.com/victorhsiaGSS/samplecodeforsca/issues/7",
+    "repo": "samplecodeforsca",
     "bounty_amount": null,
-    "labels": [
-      "mend: dependency security vulnerability"
-    ],
+    "labels": [],
     "is_security": true,
     "score": 30,
     "platform": "github"
   },
   {
-    "id": 1205017229,
-    "title": "forever-2.0.0.tgz: 27 vulnerabilities (highest severity is: 9.8)",
-    "url": "https://github.com/timf-app-demo/nodeg2/issues/2",
-    "repo": "nodeg2",
-    "bounty_amount": null,
+    "id": 3841327616,
+    "title": "[Due for payment 2026-03-02] [$250] 2FA - After clicking Got it on the success screen, the user is redirected to the Inbox",
+    "url": "https://github.com/Expensify/App/issues/80187",
+    "repo": "App",
+    "bounty_amount": 250.0,
     "labels": [
-      "mend: dependency security vulnerability"
+      "external",
+      "engineering",
+      "weekly",
+      "awaiting payment",
+      "bug"
     ],
     "is_security": true,
-    "score": 30,
-    "platform": "github"
-  },
-  {
-    "id": 1643039359,
-    "title": "forever-2.0.0.tgz: 32 vulnerabilities (highest severity is: 9.8)",
-    "url": "https://github.com/Uncleken13/NodeGoat/issues/11",
-    "repo": "NodeGoat",
-    "bounty_amount": null,
-    "labels": [
-      "mend: dependency security vulnerability"
-    ],
-    "is_security": true,
-    "score": 30,
-    "platform": "github"
-  },
-  {
-    "id": 1578282540,
-    "title": "core-2.3.1.tgz: 56 vulnerabilities (highest severity is: 9.8)",
-    "url": "https://github.com/ScalaConsultants/mesmer/issues/592",
-    "repo": "mesmer",
-    "bounty_amount": null,
-    "labels": [
-      "mend: dependency security vulnerability"
-    ],
-    "is_security": true,
-    "score": 30,
+    "score": 2.5,
     "platform": "github"
   },
   {
@@ -191,6 +76,240 @@
     "labels": [],
     "is_security": true,
     "score": 1.3,
+    "platform": "github"
+  },
+  {
+    "id": 3702846353,
+    "title": "[$125] Animation: Many Pages: The moving animation cannot be stopped or paused",
+    "url": "https://github.com/Expensify/App/issues/76915",
+    "repo": "App",
+    "bounty_amount": 125.0,
+    "labels": [
+      "external",
+      "weekly",
+      "bug",
+      "accessibility"
+    ],
+    "is_security": true,
+    "score": 1.25,
+    "platform": "github"
+  },
+  {
+    "id": 2930314469,
+    "title": "[\u6bcf\u65e5\u4fe1\u606f\u6d41] 2025-03-19",
+    "url": "https://github.com/Tyaoo/picker/issues/951",
+    "repo": "picker",
+    "bounty_amount": 32.0,
+    "labels": [
+      "daily"
+    ],
+    "is_security": true,
+    "score": 0.32,
+    "platform": "github"
+  },
+  {
+    "id": 3981413179,
+    "title": "[\u6bcf\u65e5\u4fe1\u606f\u6d41] 2026-02-24",
+    "url": "https://github.com/MM0x02/RSS-Push/issues/423",
+    "repo": "RSS-Push",
+    "bounty_amount": 20.0,
+    "labels": [
+      "daily"
+    ],
+    "is_security": true,
+    "score": 0.2,
+    "platform": "github"
+  },
+  {
+    "id": 3981413340,
+    "title": "[\u6bcf\u65e5\u4fe1\u606f\u6d41] 2026-02-24",
+    "url": "https://github.com/ruohong2018/ruohong2018.github.io/issues/1110",
+    "repo": "ruohong2018.github.io",
+    "bounty_amount": 20.0,
+    "labels": [
+      "daily"
+    ],
+    "is_security": true,
+    "score": 0.2,
+    "platform": "github"
+  },
+  {
+    "id": 3981402622,
+    "title": "[\u6bcf\u65e5\u4fe1\u606f\u6d41] 2026-02-24",
+    "url": "https://github.com/chainreactors/picker/issues/1158",
+    "repo": "picker",
+    "bounty_amount": 20.0,
+    "labels": [
+      "daily"
+    ],
+    "is_security": true,
+    "score": 0.2,
+    "platform": "github"
+  },
+  {
+    "id": 3953458398,
+    "title": "Security: GO-2025-4116 in openbao/openbao-plugins",
+    "url": "https://github.com/weberval/openbao-vulnerabilities/issues/258",
+    "repo": "openbao-vulnerabilities",
+    "bounty_amount": 1.0,
+    "labels": [
+      "security",
+      "govulncheck",
+      "vulnerability"
+    ],
+    "is_security": true,
+    "score": 0.01,
+    "platform": "github"
+  },
+  {
+    "id": 3953458270,
+    "title": "Security: GO-2025-4052 in openbao/openbao-plugins",
+    "url": "https://github.com/weberval/openbao-vulnerabilities/issues/257",
+    "repo": "openbao-vulnerabilities",
+    "bounty_amount": 1.0,
+    "labels": [
+      "security",
+      "govulncheck",
+      "vulnerability"
+    ],
+    "is_security": true,
+    "score": 0.01,
+    "platform": "github"
+  },
+  {
+    "id": 3953458157,
+    "title": "Security: GO-2025-4049 in openbao/openbao-plugins",
+    "url": "https://github.com/weberval/openbao-vulnerabilities/issues/256",
+    "repo": "openbao-vulnerabilities",
+    "bounty_amount": 1.0,
+    "labels": [
+      "security",
+      "govulncheck",
+      "vulnerability"
+    ],
+    "is_security": true,
+    "score": 0.01,
+    "platform": "github"
+  },
+  {
+    "id": 3953457948,
+    "title": "Security: GO-2025-4039 in openbao/openbao-plugins",
+    "url": "https://github.com/weberval/openbao-vulnerabilities/issues/255",
+    "repo": "openbao-vulnerabilities",
+    "bounty_amount": 1.0,
+    "labels": [
+      "security",
+      "govulncheck",
+      "vulnerability"
+    ],
+    "is_security": true,
+    "score": 0.01,
+    "platform": "github"
+  },
+  {
+    "id": 3953457794,
+    "title": "Security: GO-2025-3783 in openbao/openbao-plugins",
+    "url": "https://github.com/weberval/openbao-vulnerabilities/issues/254",
+    "repo": "openbao-vulnerabilities",
+    "bounty_amount": 1.0,
+    "labels": [
+      "security",
+      "govulncheck",
+      "vulnerability"
+    ],
+    "is_security": true,
+    "score": 0.01,
+    "platform": "github"
+  },
+  {
+    "id": 3953459136,
+    "title": "Security: GO-2024-2947 in openbao/openbao-secrets-operator",
+    "url": "https://github.com/weberval/openbao-vulnerabilities/issues/261",
+    "repo": "openbao-vulnerabilities",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "govulncheck",
+      "vulnerability"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3953458855,
+    "title": "Security: GO-2024-2687 in openbao/openbao-secrets-operator",
+    "url": "https://github.com/weberval/openbao-vulnerabilities/issues/260",
+    "repo": "openbao-vulnerabilities",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "govulncheck",
+      "vulnerability"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3949705689,
+    "title": "[Epic] Security Hardening",
+    "url": "https://github.com/LennyObez/studio-pair/issues/20",
+    "repo": "studio-pair",
+    "bounty_amount": null,
+    "labels": [
+      "epic",
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3750332135,
+    "title": "security: Add network policies to Helm chart",
+    "url": "https://github.com/lexfrei/minecraft-operator/issues/17",
+    "repo": "minecraft-operator",
+    "bounty_amount": null,
+    "labels": [
+      "priority/low",
+      "status/ready",
+      "area/controller",
+      "area/helm",
+      "area/api",
+      "size/m",
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3982427846,
+    "title": "SECURITY.md: Add email fallback for vulnerability reporting",
+    "url": "https://github.com/masa-57/PIC/issues/19",
+    "repo": "PIC",
+    "bounty_amount": null,
+    "labels": [
+      "documentation",
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3982348327,
+    "title": "Security: HTTP Header Injection vulnerability in get command",
+    "url": "https://github.com/nesalia-inc/fresh/issues/25",
+    "repo": "fresh",
+    "bounty_amount": null,
+    "labels": [
+      "priority:high",
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
     "platform": "github"
   },
   {
@@ -321,64 +440,6 @@
       "security",
       "vulnerability",
       "xss"
-    ],
-    "is_security": true,
-    "score": 0,
-    "platform": "github"
-  },
-  {
-    "id": 2852851511,
-    "title": "CVE Dashboard",
-    "url": "https://github.com/defenseunicorns/uds-core/issues/1283",
-    "repo": "uds-core",
-    "bounty_amount": null,
-    "labels": [
-      "security"
-    ],
-    "is_security": true,
-    "score": 0,
-    "platform": "github"
-  },
-  {
-    "id": 3981603632,
-    "title": "SECURITY: API routes missing entity membership + role permission checks",
-    "url": "https://github.com/trunghuynh92/Financeapp/issues/27",
-    "repo": "Financeapp",
-    "bounty_amount": null,
-    "labels": [
-      "bug",
-      "security"
-    ],
-    "is_security": true,
-    "score": 0,
-    "platform": "github"
-  },
-  {
-    "id": 3900617966,
-    "title": "Implement API Rate Limiting for Backend Endpoints",
-    "url": "https://github.com/eccentriccoder01/Bharatshaala/issues/2",
-    "repo": "Bharatshaala",
-    "bounty_amount": null,
-    "labels": [
-      "enhancement",
-      "security",
-      "jwoc",
-      "medium"
-    ],
-    "is_security": true,
-    "score": 0,
-    "platform": "github"
-  },
-  {
-    "id": 3981423206,
-    "title": "\ud83d\udd12 [Security] Auto-fix workflow failed",
-    "url": "https://github.com/gigahidjrikaaa/UGM-AICare/issues/141",
-    "repo": "UGM-AICare",
-    "bounty_amount": null,
-    "labels": [
-      "bug",
-      "security",
-      "automated"
     ],
     "is_security": true,
     "score": 0,
@@ -959,64 +1020,13 @@
     "platform": "github"
   },
   {
-    "id": 3980784168,
-    "title": "\ud83d\udd12 Security Sweep \u2014 Feb 24",
-    "url": "https://github.com/Kalaith/wh_frontpage/issues/35",
-    "repo": "wh_frontpage",
+    "id": 3977604771,
+    "title": "Bounty - Add GRVT Perpetual Connector",
+    "url": "https://github.com/hummingbot/hummingbot/issues/8046",
+    "repo": "hummingbot",
     "bounty_amount": null,
     "labels": [
-      "quest",
-      "difficulty:medium",
-      "xp:medium"
-    ],
-    "is_security": true,
-    "score": 0,
-    "platform": "github"
-  },
-  {
-    "id": 3929634298,
-    "title": "[LEDGER] Bounty Payout Ledger \u2014 Queued / Pending / Confirmed",
-    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/104",
-    "repo": "rustchain-bounties",
-    "bounty_amount": null,
-    "labels": [
-      "bounty",
-      "open",
-      "maintenance"
-    ],
-    "is_security": true,
-    "score": 0,
-    "platform": "github"
-  },
-  {
-    "id": 3968422014,
-    "title": "[BOUNTY] First Attest Bonus (Latest Miner Required) - 5 RTC",
-    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/374",
-    "repo": "rustchain-bounties",
-    "bounty_amount": null,
-    "labels": [
-      "bounty",
-      "open",
-      "micro",
-      "multi-claim",
-      "propagation",
-      "community"
-    ],
-    "is_security": true,
-    "score": 0,
-    "platform": "github"
-  },
-  {
-    "id": 3156783246,
-    "title": "Set up an AI product",
-    "url": "https://github.com/1712n/dn-institute/issues/489",
-    "repo": "dn-institute",
-    "bounty_amount": null,
-    "labels": [
-      "\ud83d\udcb0 bounty",
-      "difficulty \u2b50\u2b50",
-      "$500",
-      "data science"
+      "bounty"
     ],
     "is_security": true,
     "score": 0,
@@ -1034,31 +1044,15 @@
     "platform": "github"
   },
   {
-    "id": 586249205,
-    "title": "Allow users to turn off TLS verification or use their own certs",
-    "url": "https://github.com/nextcloud/mail/issues/2785",
-    "repo": "mail",
+    "id": 3929634298,
+    "title": "[LEDGER] Bounty Payout Ledger \u2014 Queued / Pending / Confirmed",
+    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/104",
+    "repo": "rustchain-bounties",
     "bounty_amount": null,
     "labels": [
-      "enhancement",
-      "1. to develop",
-      "security"
-    ],
-    "is_security": true,
-    "score": 0,
-    "platform": "github"
-  },
-  {
-    "id": 1703571139,
-    "title": "[Proposal] Support configuring permissions of automatic tokens of Actions jobs",
-    "url": "https://github.com/go-gitea/gitea/issues/24635",
-    "repo": "gitea",
-    "bounty_amount": null,
-    "labels": [
-      "type/proposal",
-      "topic/gitea-actions",
-      "\ud83d\udc8e bounty",
-      "$100"
+      "bounty",
+      "open",
+      "maintenance"
     ],
     "is_security": true,
     "score": 0,
@@ -1080,28 +1074,46 @@
     "platform": "github"
   },
   {
-    "id": 353099798,
-    "title": "Elite Dangerous (359320)",
-    "url": "https://github.com/ValveSoftware/Proton/issues/150",
-    "repo": "Proton",
+    "id": 3971033816,
+    "title": "[MICRO-BOUNTY] Report a Real Bug in Any Scottcjn Repo \u2014 3-15 RTC",
+    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/386",
+    "repo": "rustchain-bounties",
+    "bounty_amount": null,
+    "labels": [],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3974394791,
+    "title": "Security: /relay/ping Impersonation & Nonce Replay Vulnerabilities",
+    "url": "https://github.com/Scottcjn/beacon-skill/issues/48",
+    "repo": "beacon-skill",
+    "bounty_amount": null,
+    "labels": [],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3921482028,
+    "title": "[incident.io] Base",
+    "url": "https://github.com/superplanehq/superplane/issues/3000",
+    "repo": "superplane",
     "bounty_amount": null,
     "labels": [
-      "game compatibility - unofficial",
-      "regression",
-      "nvidia drivers",
-      "mesa drivers",
-      ".net",
-      "amd radv"
+      "integration",
+      "edu"
     ],
     "is_security": true,
     "score": 0,
     "platform": "github"
   },
   {
-    "id": 3974962584,
-    "title": "feat: add autonomous loop onboarding flow via skills add",
-    "url": "https://github.com/aibtcdev/landing-page/issues/252",
-    "repo": "landing-page",
+    "id": 3972330022,
+    "title": "Request for Escalation \u2013 Report #204",
+    "url": "https://github.com/Blueprint-Finance/concrete-earn-v2-bug-bounty/issues/2",
+    "repo": "concrete-earn-v2-bug-bounty",
     "bounty_amount": null,
     "labels": [],
     "is_security": true,
