@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Dependency Update Bounty Hunter - AUTONOMY-CLAW
+Dependency Update Bounty Hunter - Karl Ambrosius
 Finds outdated dependencies and creates PRs to update them
 """
 
@@ -19,7 +19,7 @@ class DependencyBountyHunter:
         os.makedirs(self.data_dir, exist_ok=True)
         self.github_token = open('/secrets/github_token').read().strip()
         self.headers = {'Authorization': f'token {self.github_token}', 'Accept': 'application/vnd.github.v3+json'}
-        self.username = 'kambrosgroup'
+        self.username = 'KarlAmbrosius'
         
     def search_dependency_issues(self) -> List[Dict]:
         """Search for dependency update issues"""

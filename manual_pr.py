@@ -9,7 +9,7 @@ import json
 from datetime import datetime
 
 GITHUB_TOKEN = open('/secrets/github_token').read().strip()
-USERNAME = 'kambrosgroup'
+USERNAME = 'KarlAmbrosius'
 
 def read_state():
     state_file = '/agent/systems/bounty-hunter/data/state.json'

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Security Bounty Hunter - AUTONOMY-CLAW
+Security Bounty Hunter - Karl Ambrosius
 Finds and fixes security vulnerabilities for bug bounties
 """
 
@@ -20,7 +20,7 @@ class SecurityBountyHunter:
         os.makedirs(self.data_dir, exist_ok=True)
         self.github_token = open('/secrets/github_token').read().strip()
         self.headers = {'Authorization': f'token {self.github_token}', 'Accept': 'application/vnd.github.v3+json'}
-        self.username = 'kambrosgroup'
+        self.username = 'KarlAmbrosius'
         
     def search_security_bounties(self) -> List[Dict]:
         """Search for security-related issues and bounties"""

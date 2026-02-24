@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AUTONOMY-CLAW Earnings Tracker
+Karl Ambrosius Earnings Tracker
 Tracks revenue from all sources
 """
 
@@ -77,7 +77,7 @@ class EarningsTracker:
         
         report = f"""
 ╔══════════════════════════════════════════════════════════════╗
-║           AUTONOMY-CLAW EARNINGS REPORT                      ║
+║           Karl Ambrosius EARNINGS REPORT                      ║
 ╚══════════════════════════════════════════════════════════════╝
 
 📊 SUMMARY

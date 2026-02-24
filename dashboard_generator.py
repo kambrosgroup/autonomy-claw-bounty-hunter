@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AUTONOMY-CLAW Dashboard
+Karl Ambrosius Dashboard
 Real-time monitoring and statistics
 """
 
@@ -79,7 +79,7 @@ class Dashboard:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AUTONOMY-CLAW Dashboard</title>
+    <title>Karl Ambrosius Dashboard</title>
     <style>
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
         body {{
@@ -204,7 +204,7 @@ class Dashboard:
 <body>
     <div class="container">
         <header>
-            <h1>🤖 AUTONOMY-CLAW</h1>
+            <h1>🤖 Karl Ambrosius</h1>
             <p class="subtitle">Autonomous Bounty Hunter Dashboard</p>
         </header>
         

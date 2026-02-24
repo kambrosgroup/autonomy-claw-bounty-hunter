@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AUTONOMY-CLAW Webhook Server
+Karl Ambrosius Webhook Server
 Receives GitHub webhooks and triggers actions
 """
 
@@ -108,7 +108,7 @@ class WebhookHandler(BaseHTTPRequestHandler):
         issue = payload.get('issue', {})
         
         # Check if it's on one of our PRs
-        if 'AUTONOMY-CLAW' in issue.get('title', ''):
+        if 'Karl Ambrosius' in issue.get('title', ''):
             print(f"  💬 Comment on our PR")
             print(f"     Author: {comment['user']['login']}")
             print(f"     Body: {comment['body'][:100]}...")

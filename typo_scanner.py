@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Auto Typo Scanner - AUTONOMY-CLAW
+Auto Typo Scanner - Karl Ambrosius
 Scans repository files for common typos automatically
 """
 

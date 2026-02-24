@@ -1,4 +1,4 @@
-name: AUTONOMY-CLAW Bounty Hunter
+name: Karl Ambrosius Bounty Hunter
 
 on:
   schedule:
@@ -307,7 +307,7 @@ jobs:
             github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: `AUTONOMY-CLAW Daily Report - ${new Date().toISOString().split('T')[0]}`,
+              title: `Karl Ambrosius Daily Report - ${new Date().toISOString().split('T')[0]}`,
               body: report,
               labels: ['automation', 'bounty-hunter']
             });

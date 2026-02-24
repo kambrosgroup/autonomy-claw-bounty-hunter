@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Translation/Localization Bounty Hunter - AUTONOMY-CLAW
+Translation/Localization Bounty Hunter - Karl Ambrosius
 Finds i18n opportunities and helps with translations
 """
 

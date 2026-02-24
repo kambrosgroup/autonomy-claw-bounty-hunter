@@ -14,7 +14,7 @@ sys.path.insert(0, '/agent/systems/bounty-hunter')
 from smart_fixer import SmartFixer
 
 GITHUB_TOKEN = open('/secrets/github_token').read().strip()
-USERNAME = 'kambrosgroup'
+USERNAME = 'KarlAmbrosius'
 REPOS_DIR = '/agent/systems/bounty-hunter/data/repos'
 
 def run_gh(args, cwd=None):
@@ -51,14 +51,14 @@ def submit_bounty(owner, repo, issue_number, issue_title):
     print(f"   ✅ Fixed {fix_results['total_changes']} issues")
     
     # Configure and commit
-    subprocess.run(['git', 'config', 'user.email', 'autonomy-claw@openclaw.ai'], cwd=work_dir, capture_output=True)
-    subprocess.run(['git', 'config', 'user.name', 'AUTONOMY-CLAW'], cwd=work_dir, capture_output=True)
+    subprocess.run(['git', 'config', 'user.email', 'karlambrosius@outlook.com.au'], cwd=work_dir, capture_output=True)
+    subprocess.run(['git', 'config', 'user.name', 'Karl Ambrosius'], cwd=work_dir, capture_output=True)
     
     branch_name = f"autonomy-fix-{issue_number}"
     subprocess.run(['git', 'checkout', '-b', branch_name], cwd=work_dir, capture_output=True)
     subprocess.run(['git', 'add', '-A'], cwd=work_dir, capture_output=True)
     
-    commit_msg = f"Fix #{issue_number}: {issue_title[:50]}\n\nAutomated fixes by AUTONOMY-CLAW 🤖"
+    commit_msg = f"Fix #{issue_number}: {issue_title[:50]}\n\nAutomated fixes by Karl Ambrosius 🤖"
     subprocess.run(['git', 'commit', '-m', commit_msg], cwd=work_dir, capture_output=True)
     
     # Fork and push
@@ -84,7 +84,7 @@ Changes:
 - Fixed {fix_results['trailing_ws_fixed']} whitespace issues
 - Added {fix_results['newlines_added']} newlines
 
-🤖 AUTONOMY-CLAW"""
+🤖 Karl Ambrosius"""
     
     for base in ['main', 'master']:
         result = run_gh([

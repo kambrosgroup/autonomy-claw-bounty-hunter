@@ -1,4 +1,4 @@
-name: AUTONOMY-CLAW Mega Batch Processor
+name: Karl Ambrosius Mega Batch Processor
 
 on:
   schedule:
@@ -45,8 +45,8 @@ jobs:
           
       - name: Configure Git
         run: |
-          git config --global user.email "autonomy-claw@openclaw.ai"
-          git config --global user.name "AUTONOMY-CLAW"
+          git config --global user.email "karlambrosius@outlook.com.au"
+          git config --global user.name "Karl Ambrosius"
           
       - name: Run Mega Batch Processor
         id: batch

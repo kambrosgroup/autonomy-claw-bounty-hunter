@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Test Coverage Bounty Hunter - AUTONOMY-CLAW
+Test Coverage Bounty Hunter - Karl Ambrosius
 Finds repos needing tests and generates basic test coverage
 """
 

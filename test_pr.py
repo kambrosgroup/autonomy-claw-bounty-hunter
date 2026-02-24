@@ -35,7 +35,7 @@ def test_fork_and_push():
         fork_owner = fork_data['owner']['login']
     else:
         print(f"   ⚠️  Fork returned {response.status_code} - may already exist")
-        fork_owner = 'kambrosgroup'
+        fork_owner = 'KarlAmbrosius'
     
     # Step 2: Wait for fork
     print("\n2. Waiting for fork to be ready...")
@@ -47,9 +47,9 @@ def test_fork_and_push():
         print(f"   📁 Repo exists at {work_dir}")
         
         # Configure git
-        subprocess.run(['git', 'config', 'user.email', 'autonomy-claw@openclaw.ai'],
+        subprocess.run(['git', 'config', 'user.email', 'karlambrosius@outlook.com.au'],
                       cwd=work_dir, check=True, capture_output=True)
-        subprocess.run(['git', 'config', 'user.name', 'AUTONOMY-CLAW'],
+        subprocess.run(['git', 'config', 'user.name', 'Karl Ambrosius'],
                       cwd=work_dir, check=True, capture_output=True)
         
         # Check current remotes
@@ -78,10 +78,10 @@ def test_fork_and_push():
         # Make a small change
         test_file = f"{work_dir}/AUTONOMY_TEST.md"
         with open(test_file, 'w') as f:
-            f.write("# Test file\n\nThis is a test from AUTONOMY-CLAW\n")
+            f.write("# Test file\n\nThis is a test from Karl Ambrosius\n")
         
         subprocess.run(['git', 'add', 'AUTONOMY_TEST.md'], cwd=work_dir, capture_output=True)
-        subprocess.run(['git', 'commit', '-m', 'Test commit from AUTONOMY-CLAW'], cwd=work_dir, capture_output=True)
+        subprocess.run(['git', 'commit', '-m', 'Test commit from Karl Ambrosius'], cwd=work_dir, capture_output=True)
         print(f"   ✅ Test commit created")
         
         # Try to push

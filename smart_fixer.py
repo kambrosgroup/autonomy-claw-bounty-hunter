@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Smart Fixer - AUTONOMY-CLAW Bounty Hunter Module
+Smart Fixer - Karl Ambrosius Bounty Hunter Module
 Implements intelligent fixes for common issue types
 """
 

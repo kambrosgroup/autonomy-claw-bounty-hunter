@@ -9,7 +9,7 @@ on:
 jobs:
   auto-respond:
     runs-on: ubuntu-latest
-    if: contains(github.event.comment.body, 'AUTONOMY-CLAW') || contains(github.event.issue.labels.*.name, 'automation')
+    if: contains(github.event.comment.body, 'Karl Ambrosius') || contains(github.event.issue.labels.*.name, 'automation')
     
     steps:
       - name: Checkout repository
