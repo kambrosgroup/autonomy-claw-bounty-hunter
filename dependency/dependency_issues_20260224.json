@@ -1,0 +1,484 @@
+[
+  {
+    "id": 3982187722,
+    "title": "Update workflows - February 24, 2026",
+    "url": "https://github.com/devantler-tech/ksail/issues/2448",
+    "repo": "ksail",
+    "labels": [
+      "dependencies",
+      "automation"
+    ],
+    "score": 20
+  },
+  {
+    "id": 3174548390,
+    "title": "Upgrade deprecated packages",
+    "url": "https://github.com/meteor/meteor/issues/13812",
+    "repo": "meteor",
+    "labels": [
+      "dependencies",
+      "idle"
+    ],
+    "score": 20
+  },
+  {
+    "id": 2274792303,
+    "title": "update planetmint to cosmos v0.50.x",
+    "url": "https://github.com/planetmint/planetmint-go/issues/389",
+    "repo": "planetmint-go",
+    "labels": [
+      "enhancement",
+      "dependencies",
+      "planetmint"
+    ],
+    "score": 20
+  },
+  {
+    "id": 3455420855,
+    "title": "Review pytest-django for test execution and parallelization",
+    "url": "https://github.com/learning-unlimited/ESP-Website/issues/3917",
+    "repo": "ESP-Website",
+    "labels": [
+      "idea for discussion",
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 3981264141,
+    "title": "Upgrade to Astro 6 + Vite 7 + Tailwind 4.2",
+    "url": "https://github.com/llbbl/semantic-docs/issues/33",
+    "repo": "semantic-docs",
+    "labels": [
+      "dependencies",
+      "blocked"
+    ],
+    "score": 20
+  },
+  {
+    "id": 2568701191,
+    "title": "Upgrade deprecated node packages",
+    "url": "https://github.com/learning-unlimited/ESP-Website/issues/3778",
+    "repo": "ESP-Website",
+    "labels": [
+      "infrastructure",
+      "technical debt",
+      "frontend",
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 2207611653,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/MTES-MCT/qualicharge/issues/3",
+    "repo": "qualicharge",
+    "labels": [
+      "dependencies",
+      "api"
+    ],
+    "score": 20
+  },
+  {
+    "id": 3438512752,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/atomly/journl/issues/80",
+    "repo": "journl",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 3362595080,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/Pycord-Development/pycord-crowdin-linked-roles/issues/5",
+    "repo": "pycord-crowdin-linked-roles",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 2836519679,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/scratchfoundation/scratch-editor/issues/141",
+    "repo": "scratch-editor",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 3362652914,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/Pycord-Development/pycord/issues/2886",
+    "repo": "pycord",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 2160840724,
+    "title": "Renovate Dashboard \ud83e\udd16",
+    "url": "https://github.com/willianpaixao/homelab/issues/1",
+    "repo": "homelab",
+    "labels": [
+      "dependencies",
+      "renovate"
+    ],
+    "score": 20
+  },
+  {
+    "id": 1719504364,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/tonightpass/kitchn/issues/242",
+    "repo": "kitchn",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 1318885488,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/bp-momentum/frontend/issues/337",
+    "repo": "frontend",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 3980719867,
+    "title": "deps: ci: Bump actions/setup-python from 5 to 6",
+    "url": "https://github.com/aRustyDev/ai/issues/829",
+    "repo": "ai",
+    "labels": [
+      "dependencies",
+      "github-actions"
+    ],
+    "score": 20
+  },
+  {
+    "id": 3980719750,
+    "title": "deps: ci: Bump astral-sh/setup-uv from 4 to 7",
+    "url": "https://github.com/aRustyDev/ai/issues/828",
+    "repo": "ai",
+    "labels": [
+      "dependencies",
+      "github-actions"
+    ],
+    "score": 20
+  },
+  {
+    "id": 3980719577,
+    "title": "deps: ci: Bump actions/checkout from 4 to 6",
+    "url": "https://github.com/aRustyDev/ai/issues/826",
+    "repo": "ai",
+    "labels": [
+      "dependencies",
+      "github-actions"
+    ],
+    "score": 20
+  },
+  {
+    "id": 3362841215,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/Pycord-Development/pycord-next/issues/65",
+    "repo": "pycord-next",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 3431208312,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/indykite/developer-hub/issues/9",
+    "repo": "developer-hub",
+    "labels": [
+      "dependencies",
+      "renovate"
+    ],
+    "score": 20
+  },
+  {
+    "id": 1513608912,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/DataDog/browser-sdk/issues/1897",
+    "repo": "browser-sdk",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 3563542945,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/cloudfoundry/app-autoscaler/issues/832",
+    "repo": "app-autoscaler",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 1329066013,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/maybeanerd/MagiBot/issues/426",
+    "repo": "MagiBot",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 2863664600,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/pulumi/pulumi-dotnet/issues/485",
+    "repo": "pulumi-dotnet",
+    "labels": [
+      "kind/engineering",
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 2556196731,
+    "title": "Update to MUI v6",
+    "url": "https://github.com/OpenCTI-Platform/opencti/issues/8551",
+    "repo": "opencti",
+    "labels": [
+      "technical improvement",
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 2501284962,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/UltraCosmetics/UltraCosmetics-GUI-Addon/issues/102",
+    "repo": "UltraCosmetics-GUI-Addon",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 1498117661,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/WeblateOrg/weblate/issues/8486",
+    "repo": "weblate",
+    "labels": [
+      "waiting for: demand",
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 3947195374,
+    "title": "Lift matplotlib upper version bound (<3.10)",
+    "url": "https://github.com/gammapy/gammapy/issues/6399",
+    "repo": "gammapy",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 2678012352,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/pulumi/pulumi-eks/issues/1502",
+    "repo": "pulumi-eks",
+    "labels": [
+      "kind/engineering",
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 2317420489,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/codeharborhub/codeharborhub.github.io/issues/242",
+    "repo": "codeharborhub.github.io",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 1125006625,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/leaderboardsgg/leaderboard-site/issues/168",
+    "repo": "leaderboard-site",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 2754422652,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/CarrotManMatt/static-websites/issues/19",
+    "repo": "static-websites",
+    "labels": [
+      "dependencies",
+      "tracker"
+    ],
+    "score": 20
+  },
+  {
+    "id": 1365895931,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/pascaliske/infrastructure/issues/124",
+    "repo": "infrastructure",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 2739937167,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/go-fries/fries/issues/420",
+    "repo": "fries",
+    "labels": [
+      "dependencies",
+      "go",
+      "github_actions"
+    ],
+    "score": 20
+  },
+  {
+    "id": 2825050674,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/langchain4j/langchain4j-community/issues/65",
+    "repo": "langchain4j-community",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 3091517136,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/k0sproject/k0s/issues/5883",
+    "repo": "k0s",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 2586663981,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/LunaPurpleSunshine/ipget/issues/301",
+    "repo": "ipget",
+    "labels": [
+      "dependencies",
+      "maintenance"
+    ],
+    "score": 20
+  },
+  {
+    "id": 1864670853,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/jonahsnider/frc-colors.com/issues/2",
+    "repo": "frc-colors.com",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 2055626713,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/ictsc/ictsc-regalia/issues/148",
+    "repo": "ictsc-regalia",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 2677906374,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/pulumi/pulumi-kubernetes/issues/3320",
+    "repo": "pulumi-kubernetes",
+    "labels": [
+      "kind/engineering",
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 3060545047,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/munich-quantum-toolkit/debugger/issues/55",
+    "repo": "debugger",
+    "labels": [
+      "dependencies"
+    ],
+    "score": 20
+  },
+  {
+    "id": 2459116294,
+    "title": "Dependencies needing attention",
+    "url": "https://github.com/meza/minecraft-fabric-server/issues/28",
+    "repo": "minecraft-fabric-server",
+    "labels": [],
+    "score": 10
+  },
+  {
+    "id": 3977147005,
+    "title": "\ud83d\udd27 Fix: check_space_updates Test Failure",
+    "url": "https://github.com/HANSKMIEL/landscape-architecture-tool/issues/935",
+    "repo": "landscape-architecture-tool",
+    "labels": [
+      "test-failure",
+      "automated",
+      "sub-issue",
+      "frontend"
+    ],
+    "score": 10
+  },
+  {
+    "id": 3957328048,
+    "title": "[R] CRAN packaging checklist for version 23.0.1",
+    "url": "https://github.com/apache/arrow/issues/49322",
+    "repo": "arrow",
+    "labels": [],
+    "score": 10
+  },
+  {
+    "id": 3982323381,
+    "title": "Release produced major version instead of expected patch",
+    "url": "https://github.com/intuit/auto/issues/2522",
+    "repo": "auto",
+    "labels": [
+      "bug"
+    ],
+    "score": 10
+  },
+  {
+    "id": 3979614581,
+    "title": "Setup Dependabot for Dependency Updates",
+    "url": "https://github.com/lumensLabs/TrustAnchor/issues/51",
+    "repo": "TrustAnchor",
+    "labels": [
+      "security",
+      "devops"
+    ],
+    "score": 10
+  },
+  {
+    "id": 3285247698,
+    "title": "Upgrade to vite and get rid of deprecated react-script",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture/issues/1368",
+    "repo": "CleanArchitecture",
+    "labels": [],
+    "score": 10
+  }
+]

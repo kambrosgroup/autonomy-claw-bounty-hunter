@@ -1,0 +1,931 @@
+[
+  {
+    "id": 3937839464,
+    "title": "Add Portuguese interface translation",
+    "url": "https://github.com/bibliogenius/bibliogenius-app/issues/2",
+    "repo": "bibliogenius-app",
+    "labels": [
+      "good first issue",
+      "help wanted",
+      "translation"
+    ],
+    "language": "portuguese",
+    "score": 20
+  },
+  {
+    "id": 3980267276,
+    "title": "[MINOR][Bug] Missing German translation for 'Try again' key",
+    "url": "https://github.com/gerasem/payload-vue-shop/issues/57",
+    "repo": "payload-vue-shop",
+    "labels": [
+      "bug",
+      "frontend",
+      "minor",
+      "i18n"
+    ],
+    "language": "german",
+    "score": 20
+  },
+  {
+    "id": 3828206448,
+    "title": "Add Support for Chinese (Simplified) Language",
+    "url": "https://github.com/henrikruscon/alcove-releases/issues/571",
+    "repo": "alcove-releases",
+    "labels": [
+      "enhancement",
+      "localization"
+    ],
+    "language": "chinese",
+    "score": 20
+  },
+  {
+    "id": 3394293747,
+    "title": "Units in German locale should be capitalized",
+    "url": "https://github.com/bryntum/support/issues/11888",
+    "repo": "support",
+    "labels": [
+      "bug",
+      "ready for review",
+      "forum",
+      "localization",
+      "oem",
+      "well-scoped"
+    ],
+    "language": "german",
+    "score": 20
+  },
+  {
+    "id": 3965904225,
+    "title": "Add Russian localization",
+    "url": "https://github.com/harperstoeckle/QuiteEnoughRecipes/issues/87",
+    "repo": "QuiteEnoughRecipes",
+    "labels": [
+      "localization"
+    ],
+    "language": "russian",
+    "score": 20
+  },
+  {
+    "id": 3072046265,
+    "title": "[3.14] Translate `reference/import.po`",
+    "url": "https://github.com/python/python-docs-el/issues/1048",
+    "repo": "python-docs-el",
+    "labels": [
+      "translation",
+      "severity/major",
+      "xlarge"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3072046252,
+    "title": "[3.14] Translate `reference/expressions.po`",
+    "url": "https://github.com/python/python-docs-el/issues/1047",
+    "repo": "python-docs-el",
+    "labels": [
+      "translation",
+      "severity/major",
+      "xlarge"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3072046225,
+    "title": "[3.14] Translate `reference/compound_stmts.po`",
+    "url": "https://github.com/python/python-docs-el/issues/1045",
+    "repo": "python-docs-el",
+    "labels": [
+      "translation",
+      "severity/major",
+      "xlarge"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 2613481022,
+    "title": "Complete translations, review them or add new languages",
+    "url": "https://github.com/bit-team/backintime/issues/1915",
+    "repo": "backintime",
+    "labels": [
+      "good first issue",
+      "help-wanted",
+      "translation",
+      "no code"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3479166505,
+    "title": "Linux: Cannot input CJK in the AppImage when using the fcitx5 input method",
+    "url": "https://github.com/FreeCAD/FreeCAD/issues/24391",
+    "repo": "FreeCAD",
+    "labels": [
+      "mod: core",
+      "translation",
+      "os: linux",
+      "packaging: appimage",
+      "status: confirmed",
+      "priority: high"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3977096512,
+    "title": "Can't change default language",
+    "url": "https://github.com/inventree/InvenTree/issues/11408",
+    "repo": "InvenTree",
+    "labels": [
+      "bug",
+      "question",
+      "translation"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 2794631935,
+    "title": "Cr\u00e9ation d'un jeu de cartes avec Tabletop Simulator",
+    "url": "https://github.com/programminghistorian/ph-submissions/issues/650",
+    "repo": "ph-submissions",
+    "labels": [
+      "translation",
+      "fran\u00e7ais",
+      "4. open peer review"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3853761102,
+    "title": "Typo: \"recommanded\" instead of \"recommended\"",
+    "url": "https://github.com/Bubka/2FAuth/issues/517",
+    "repo": "2FAuth",
+    "labels": [
+      "fixed",
+      "translation"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3972541478,
+    "title": "[Feat] Make periodic update (translations) use different branch for main and backport",
+    "url": "https://github.com/OSGeo/grass/issues/7115",
+    "repo": "grass",
+    "labels": [
+      "enhancement",
+      "translation"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3979184348,
+    "title": "persian translation",
+    "url": "https://github.com/beeradmoore/dlss-swapper/issues/847",
+    "repo": "dlss-swapper",
+    "labels": [
+      "translation"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3042004430,
+    "title": "Translation based on product model",
+    "url": "https://github.com/chris-mc1/homeconnect_local_hass/issues/94",
+    "repo": "homeconnect_local_hass",
+    "labels": [
+      "translation",
+      "long-term"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3957261598,
+    "title": "Italian translation for Booltron 3.3.0",
+    "url": "https://github.com/mrachinskiy/booltron/issues/25",
+    "repo": "booltron",
+    "labels": [
+      "translation"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3977315933,
+    "title": "[sync] \u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f docs \u0432 upstream",
+    "url": "https://github.com/translation-gang/nuxt/issues/315",
+    "repo": "nuxt",
+    "labels": [
+      "translation",
+      "sync"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3977309751,
+    "title": "[sync] \u0412 upstream nuxt.com \u0435\u0441\u0442\u044c \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f",
+    "url": "https://github.com/translation-gang/nuxt.com/issues/85",
+    "repo": "nuxt.com",
+    "labels": [
+      "translation",
+      "sync"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3977154125,
+    "title": "Translation: Issues detected",
+    "url": "https://github.com/joeblew999/ubuntu-website/issues/168",
+    "repo": "ubuntu-website",
+    "labels": [
+      "automated",
+      "translation"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3803592501,
+    "title": "Translations for edit active period",
+    "url": "https://github.com/devilry/trix2/issues/166",
+    "repo": "trix2",
+    "labels": [
+      "translation"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 2364229884,
+    "title": "Translations for login provider selection",
+    "url": "https://github.com/devilry/trix2/issues/158",
+    "repo": "trix2",
+    "labels": [
+      "translation"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3975923901,
+    "title": "\u6211\u5982\u4f55\u4f7f\u7528Claude\u4ee3\u7801",
+    "url": "https://github.com/FreeCodeCamp-Chengdu/Wiki/issues/235",
+    "repo": "Wiki",
+    "labels": [
+      "translation"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3975577324,
+    "title": "\ud83c\udf10 Support Douay\u2013Rheims translation (PD)",
+    "url": "https://github.com/daybologic/chleb-bible-search/issues/163",
+    "repo": "chleb-bible-search",
+    "labels": [
+      "translation"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3975563143,
+    "title": "Add language support for static pages",
+    "url": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/949",
+    "repo": "openfoodfacts-explorer",
+    "labels": [
+      "\ud83c\udf10 translations",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3979862501,
+    "title": "Hardcoded lang=\"en\" in app.html ignores user locale",
+    "url": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/966",
+    "repo": "openfoodfacts-explorer",
+    "labels": [
+      "\ud83c\udf10 translations",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3981663371,
+    "title": "some >90% translated languages are not included in GTK i18n",
+    "url": "https://github.com/transmission/transmission/issues/8608",
+    "repo": "transmission",
+    "labels": [
+      "bug",
+      "scope:gtk",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3982137057,
+    "title": "[Frontend] i18n / localization for emerging markets",
+    "url": "https://github.com/MetroLogic/fluxapay/issues/130",
+    "repo": "fluxapay",
+    "labels": [
+      "stellar wave",
+      "frontend",
+      "steller wave",
+      "medium",
+      "ux",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3978087315,
+    "title": "Incorrect lang attribute in root <html> element",
+    "url": "https://github.com/element-hq/element-web/issues/32603",
+    "repo": "element-web",
+    "labels": [
+      "t-defect",
+      "s-major",
+      "i18n",
+      "o-occasional"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 103429453,
+    "title": "Add support for right-to-left text",
+    "url": "https://github.com/dompdf/dompdf/issues/1009",
+    "repo": "dompdf",
+    "labels": [
+      "enhancement",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3980266733,
+    "title": "[MINOR][Bug] Low stock badge text in cart not internationalized",
+    "url": "https://github.com/gerasem/payload-vue-shop/issues/54",
+    "repo": "payload-vue-shop",
+    "labels": [
+      "bug",
+      "frontend",
+      "minor",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3980266536,
+    "title": "[MINOR][Bug] Hardcoded homepage path checks in app.vue break with locale changes",
+    "url": "https://github.com/gerasem/payload-vue-shop/issues/53",
+    "repo": "payload-vue-shop",
+    "labels": [
+      "bug",
+      "frontend",
+      "minor",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3980265722,
+    "title": "[MINOR][Bug] Zod validation schemas with translated messages freeze at initial locale",
+    "url": "https://github.com/gerasem/payload-vue-shop/issues/49",
+    "repo": "payload-vue-shop",
+    "labels": [
+      "bug",
+      "frontend",
+      "minor",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3980260588,
+    "title": "[MAJOR][Bug] Cookie banner and auth page links use hardcoded paths instead of localePath()",
+    "url": "https://github.com/gerasem/payload-vue-shop/issues/27",
+    "repo": "payload-vue-shop",
+    "labels": [
+      "bug",
+      "frontend",
+      "major",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3976524562,
+    "title": "The login page is not opening in the desired language.",
+    "url": "https://github.com/apache/superset/issues/38178",
+    "repo": "superset",
+    "labels": [
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3914062119,
+    "title": "We're due for a more structured translation process",
+    "url": "https://github.com/npmx-dev/npmx.dev/issues/1253",
+    "repo": "npmx.dev",
+    "labels": [
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3670774284,
+    "title": "Export datasets depending on the country_portal (and other factors)",
+    "url": "https://github.com/betagouv/ComparIA/issues/194",
+    "repo": "ComparIA",
+    "labels": [
+      "i18n",
+      "dataset/db"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3646427013,
+    "title": "New feature : Add possibility to have specific models only appear in some or a few languages",
+    "url": "https://github.com/betagouv/ComparIA/issues/171",
+    "repo": "ComparIA",
+    "labels": [
+      "priority::medium",
+      "models",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3940145100,
+    "title": "LEO WINDOW BUG",
+    "url": "https://github.com/brave/brave-browser/issues/52863",
+    "repo": "brave-browser",
+    "labels": [
+      "qa/yes",
+      "release-notes/include",
+      "os/desktop",
+      "feature/sidebar",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3547869495,
+    "title": "Website redesign",
+    "url": "https://github.com/django/djangoproject.com/issues/2287",
+    "repo": "djangoproject.com",
+    "labels": [
+      "in progress",
+      "styles",
+      "accessibility",
+      "new feature",
+      "trac",
+      "blog",
+      "docs",
+      "search",
+      "fundraising",
+      "i18n",
+      "members",
+      "non-code-contribution",
+      "user research",
+      "content",
+      "ux",
+      "ops",
+      "internal"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3848002040,
+    "title": "I18n (da/en)",
+    "url": "https://github.com/Frigear-nu/nuxt-frigear-nu/issues/95",
+    "repo": "nuxt-frigear-nu",
+    "labels": [
+      "enhancement",
+      "good first issue",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3973088277,
+    "title": "Apply `lang` to localized `name:*` values",
+    "url": "https://github.com/openstreetmap/openstreetmap-website/issues/6834",
+    "repo": "openstreetmap-website",
+    "labels": [
+      "ui",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3973086092,
+    "title": "Backend/i18n: Support detecting string lookup fallbacks",
+    "url": "https://github.com/Couchers-org/couchers/issues/7949",
+    "repo": "couchers",
+    "labels": [
+      "1.topic backend",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3215823476,
+    "title": "MudSlider value-label stays opposite in RTL mode (should mirror)",
+    "url": "https://github.com/MudBlazor/MudBlazor/issues/11613",
+    "repo": "MudBlazor",
+    "labels": [
+      "bug",
+      "good first issue",
+      "localization"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3979163588,
+    "title": "[TF2] Cow Mangler 5000 and Righteous Bison's item descriptions are missing.",
+    "url": "https://github.com/ValveSoftware/Source-1-Games/issues/7866",
+    "repo": "Source-1-Games",
+    "labels": [
+      "team fortress 2",
+      "localization"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3944503988,
+    "title": "[Bug Report]: Too many commas",
+    "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/issues/813",
+    "repo": "Super-Mario-Bros.-Remastered-Public",
+    "labels": [
+      "localization",
+      "ui",
+      "\ud83e\udeb2 bug"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3977226381,
+    "title": "MudTabs: Left scroll arrow does not work in RTL mode on mobile",
+    "url": "https://github.com/MudBlazor/MudBlazor/issues/12717",
+    "repo": "MudBlazor",
+    "labels": [
+      "bug",
+      "localization",
+      "device: mobile"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 2781271557,
+    "title": "Please add localisation",
+    "url": "https://github.com/henrikruscon/alcove-releases/issues/49",
+    "repo": "alcove-releases",
+    "labels": [
+      "enhancement",
+      "wip",
+      "localization"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3743812984,
+    "title": "Title Getting Cut Off for Some Languages",
+    "url": "https://github.com/henrikruscon/alcove-releases/issues/532",
+    "repo": "alcove-releases",
+    "labels": [
+      "bug",
+      "localization"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3975211319,
+    "title": "Implement Translation",
+    "url": "https://github.com/adelefaell/minty-flow/issues/20",
+    "repo": "minty-flow",
+    "labels": [
+      "enhancement",
+      "localization"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 2110460759,
+    "title": "Localization: Polish",
+    "url": "https://github.com/waydabber/BetterDisplay-localization/issues/22",
+    "repo": "BetterDisplay-localization",
+    "labels": [
+      "localization",
+      "completed - suitable for stable release"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3972182782,
+    "title": "Language translation variants not specified on the dropdown",
+    "url": "https://github.com/RPCS3/rpcs3/issues/18215",
+    "repo": "rpcs3",
+    "labels": [
+      "gui",
+      "localization"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 1409740543,
+    "title": "Add Other language translation to resources",
+    "url": "https://github.com/SasanLabs/VulnerableApp/issues/420",
+    "repo": "VulnerableApp",
+    "labels": [
+      "good first issue",
+      "localization",
+      "hacktoberfest"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3872424654,
+    "title": "Add guidance or bulk option for attaching LocalizationPart to content types",
+    "url": "https://github.com/OrchardCMS/OrchardCore/issues/18772",
+    "repo": "OrchardCore",
+    "labels": [
+      "enhancement",
+      "localization",
+      "ui/ux"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3872423879,
+    "title": "Improve UX for adding cultures in Localization Settings",
+    "url": "https://github.com/OrchardCMS/OrchardCore/issues/18771",
+    "repo": "OrchardCore",
+    "labels": [
+      "enhancement",
+      "localization",
+      "ui/ux"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3567038705,
+    "title": "\ud83c\udf10 Fix localization issues in app UI elements",
+    "url": "https://github.com/1cetoprosto/cyber-cafe/issues/84",
+    "repo": "cyber-cafe",
+    "labels": [
+      "bug",
+      "enhancement",
+      "localization",
+      "ui"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 9420475,
+    "title": "Screenshot dialog: Overlapping buttons",
+    "url": "https://github.com/ValveSoftware/steam-for-linux/issues/8",
+    "repo": "steam-for-linux",
+    "labels": [
+      "bug",
+      "reviewed",
+      "steam client",
+      "localization"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3948250295,
+    "title": "distance limit in find_sources()",
+    "url": "https://github.com/fermiPy/fermipy/issues/655",
+    "repo": "fermipy",
+    "labels": [
+      "localization",
+      "documentation"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 2279104335,
+    "title": "Shape parameters in localize()",
+    "url": "https://github.com/fermiPy/fermipy/issues/589",
+    "repo": "fermipy",
+    "labels": [
+      "localization"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 2943538137,
+    "title": "Localization with relaxed constraint on binned exposure map",
+    "url": "https://github.com/fermiPy/fermipy/issues/635",
+    "repo": "fermipy",
+    "labels": [
+      "enhancement",
+      "localization"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3975563143,
+    "title": "Add language support for static pages",
+    "url": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/949",
+    "repo": "openfoodfacts-explorer",
+    "labels": [
+      "\ud83c\udf10 translations",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3332562062,
+    "title": "Add internationalization (i18n) support to Gemini CLI",
+    "url": "https://github.com/google-gemini/gemini-cli/issues/6525",
+    "repo": "gemini-cli",
+    "labels": [
+      "priority/p2",
+      "stale",
+      "\ud83d\udd12 maintainer only",
+      "workstream-rollup"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3982155399,
+    "title": "Bridge layer ignores #offset! directive for injection content extraction and coordinate translation",
+    "url": "https://github.com/atusy/kakehashi/issues/183",
+    "repo": "kakehashi",
+    "labels": [],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3981429824,
+    "title": "Feature: Add Multi-language (i18n) Support for UI Components",
+    "url": "https://github.com/directus-labs/extensions/issues/300",
+    "repo": "extensions",
+    "labels": [],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3982085920,
+    "title": "Hoempage appearing in the translation field when editing a deleted sentence",
+    "url": "https://github.com/Tatoeba/tatoeba2/issues/3257",
+    "repo": "tatoeba2",
+    "labels": [
+      "bug"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3976193640,
+    "title": "I18n support",
+    "url": "https://github.com/vincentmakes/turbo-ea/issues/305",
+    "repo": "turbo-ea",
+    "labels": [],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3902512558,
+    "title": "Language/Translation Feature",
+    "url": "https://github.com/reconurge/flowsint/issues/116",
+    "repo": "flowsint",
+    "labels": [],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3981777086,
+    "title": "feat: add trench translation",
+    "url": "https://github.com/KelRot/rebuilt-2026/issues/9",
+    "repo": "rebuilt-2026",
+    "labels": [],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 2613481022,
+    "title": "Complete translations, review them or add new languages",
+    "url": "https://github.com/bit-team/backintime/issues/1915",
+    "repo": "backintime",
+    "labels": [
+      "good first issue",
+      "help-wanted",
+      "translation",
+      "no code"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3981648232,
+    "title": "In README.md add A note about internationalization OR how to contribute translation",
+    "url": "https://github.com/openmultiplayer/launcher/issues/380",
+    "repo": "launcher",
+    "labels": [],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3975563143,
+    "title": "Add language support for static pages",
+    "url": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/949",
+    "repo": "openfoodfacts-explorer",
+    "labels": [
+      "\ud83c\udf10 translations",
+      "i18n"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3980742130,
+    "title": "Missing text for translations",
+    "url": "https://github.com/kairusds/Hachimi-Edge/issues/47",
+    "repo": "Hachimi-Edge",
+    "labels": [],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3332562062,
+    "title": "Add internationalization (i18n) support to Gemini CLI",
+    "url": "https://github.com/google-gemini/gemini-cli/issues/6525",
+    "repo": "gemini-cli",
+    "labels": [
+      "priority/p2",
+      "stale",
+      "\ud83d\udd12 maintainer only",
+      "workstream-rollup"
+    ],
+    "language": null,
+    "score": 10
+  },
+  {
+    "id": 3954823082,
+    "title": "\ud83c\udf0d Update translations for optimizing-webgl-sketches.mdx",
+    "url": "https://github.com/processing/p5.js-website/issues/1174",
+    "repo": "p5.js-website",
+    "labels": [
+      "needs translation",
+      "lang-es",
+      "lang-hi",
+      "lang-ko",
+      "lang-zh-hans"
+    ],
+    "language": null,
+    "score": 10
+  }
+]

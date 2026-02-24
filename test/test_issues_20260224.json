@@ -1,0 +1,592 @@
+[
+  {
+    "id": 3982256208,
+    "title": "[TASK] Complete test coverage for Stacked and Diminishing layouts",
+    "url": "https://github.com/wkusnierczyk/garmin-piechart-time/issues/24",
+    "repo": "garmin-piechart-time",
+    "labels": [
+      "task",
+      "medium",
+      "testing"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3982101898,
+    "title": "Expand backend REST API test coverage (generate + export routes)",
+    "url": "https://github.com/sysreq/CHENG/issues/54",
+    "repo": "CHENG",
+    "labels": [
+      "phase:3-polish",
+      "testing",
+      "backend",
+      "priority:medium"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3968647590,
+    "title": "Improve code coverage for ZimReaderContainer and ZimReaderSource",
+    "url": "https://github.com/kiwix/kiwix-android/issues/4708",
+    "repo": "kiwix-android",
+    "labels": [
+      "testing",
+      "task"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3972644765,
+    "title": "Improve code coverage for Repository data layer",
+    "url": "https://github.com/kiwix/kiwix-android/issues/4711",
+    "repo": "kiwix-android",
+    "labels": [
+      "testing",
+      "task"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3981970171,
+    "title": "Test coverage: ContactSidebar \u2014 contact management invisible to tests",
+    "url": "https://github.com/JovieInc/Jovie/issues/4370",
+    "repo": "Jovie",
+    "labels": [
+      "type:test",
+      "tests",
+      "testing",
+      "stability-audit"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3981970737,
+    "title": "Test coverage: SidebarLinkRow \u2014 core link editing UX untested",
+    "url": "https://github.com/JovieInc/Jovie/issues/4371",
+    "repo": "Jovie",
+    "labels": [
+      "tests",
+      "testing",
+      "stability-audit"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3981971173,
+    "title": "Test coverage: LinkActions \u2014 only keyboard tested, click interactions missing",
+    "url": "https://github.com/JovieInc/Jovie/issues/4372",
+    "repo": "Jovie",
+    "labels": [
+      "tests",
+      "testing",
+      "stability-audit"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3981969598,
+    "title": "Test coverage: ReleaseSidebar links tab + ReleaseDspLinks \u2014 DSP management untested",
+    "url": "https://github.com/JovieInc/Jovie/issues/4369",
+    "repo": "Jovie",
+    "labels": [
+      "tests",
+      "testing",
+      "stability-audit"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3981968345,
+    "title": "Test coverage: TableActionMenu \u2014 bulk admin actions untested",
+    "url": "https://github.com/JovieInc/Jovie/issues/4367",
+    "repo": "Jovie",
+    "labels": [
+      "tests",
+      "testing",
+      "stability-audit"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3981967815,
+    "title": "Test coverage: CreatorActionsMenu \u2014 admin operations untested",
+    "url": "https://github.com/JovieInc/Jovie/issues/4366",
+    "repo": "Jovie",
+    "labels": [
+      "tests",
+      "testing",
+      "stability-audit"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3981968912,
+    "title": "Test coverage: RightDrawer + DrawerNav \u2014 core navigation untested",
+    "url": "https://github.com/JovieInc/Jovie/issues/4368",
+    "repo": "Jovie",
+    "labels": [
+      "ui-nav",
+      "tests",
+      "testing",
+      "stability-audit"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3981969598,
+    "title": "Test coverage: ReleaseSidebar links tab + ReleaseDspLinks \u2014 DSP management untested",
+    "url": "https://github.com/JovieInc/Jovie/issues/4369",
+    "repo": "Jovie",
+    "labels": [
+      "tests",
+      "testing",
+      "stability-audit"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3942148907,
+    "title": "Coverage Plan - fastapi-pytest-agentic",
+    "url": "https://github.com/rajeevchandra/fastapi-pytest-agentic/issues/3",
+    "repo": "fastapi-pytest-agentic",
+    "labels": [
+      "automation",
+      "coverage",
+      "tests"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3982206881,
+    "title": "Improve Playwright test coverage: un-skip main-site tests, add missing regression tests",
+    "url": "https://github.com/DigitalHumanitiesCraft/mhdbdb-tei-only/issues/43",
+    "repo": "mhdbdb-tei-only",
+    "labels": [
+      "frontend",
+      "pipeline",
+      "claude-ready",
+      "effort:large"
+    ],
+    "score": 25
+  },
+  {
+    "id": 3982136731,
+    "title": "[Frontend] E2E and component tests",
+    "url": "https://github.com/MetroLogic/fluxapay/issues/128",
+    "repo": "fluxapay",
+    "labels": [
+      "stellar wave",
+      "frontend",
+      "steller wave",
+      "medium",
+      "testing"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3948062098,
+    "title": "[Concept Discovery] Server Components patterns across frameworks",
+    "url": "https://github.com/seanmcquaid/scaffolding-templates/issues/6725",
+    "repo": "scaffolding-templates",
+    "labels": [
+      "bug",
+      "documentation",
+      "enhancement",
+      "ralph-processed",
+      "ai-generated",
+      "concept-proposal",
+      "testing",
+      "template:next-ssr",
+      "copilot-assigned",
+      "priority:high",
+      "template:react-router-v7-ssr",
+      "category:architectural-pattern"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3961590238,
+    "title": "[Testing] Contract unit tests for reveal_prediction",
+    "url": "https://github.com/Netwalls/BOXMEOUT_STELLA/issues/127",
+    "repo": "BOXMEOUT_STELLA",
+    "labels": [
+      "stellar wave",
+      "smart-contract",
+      "p0-critical",
+      "testing"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3982102975,
+    "title": "Backend export pipeline tests: sectioning, joints, ZIP packaging",
+    "url": "https://github.com/sysreq/CHENG/issues/55",
+    "repo": "CHENG",
+    "labels": [
+      "phase:3-polish",
+      "export",
+      "testing",
+      "backend",
+      "priority:medium"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3982104030,
+    "title": "Frontend Vitest unit tests: store, mesh parser, presets, validation",
+    "url": "https://github.com/sysreq/CHENG/issues/58",
+    "repo": "CHENG",
+    "labels": [
+      "phase:3-polish",
+      "testing",
+      "priority:medium"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3972821664,
+    "title": "Extend shell-test.yml to run on all supported OS platforms",
+    "url": "https://github.com/HomericIntelligence/ProjectScylla/issues/904",
+    "repo": "ProjectScylla",
+    "labels": [
+      "enhancement",
+      "testing"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3287874103,
+    "title": "\ud83e\uddea Implement Comprehensive Quality Gates with Multi-Environment Testing",
+    "url": "https://github.com/idealase/idealase.github.io/issues/22",
+    "repo": "idealase.github.io",
+    "labels": [
+      "enhancement",
+      "testing",
+      "quality",
+      "ci/cd",
+      "shift-left"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3640516988,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/Wikid82/Charon/issues/65",
+    "repo": "Charon",
+    "labels": [
+      "backend",
+      "frontend",
+      "security",
+      "ssl",
+      "crowdsec",
+      "caddy",
+      "testing"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3843239451,
+    "title": "Research - how to test SLDS components in all frameworks without maintaining multiple Storybooks",
+    "url": "https://github.com/sl-design-system/components/issues/2942",
+    "repo": "components",
+    "labels": [
+      "testing",
+      "triage"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3946779951,
+    "title": "Add more unit tests",
+    "url": "https://github.com/AlexandreDabySeesaram/NeuROM/issues/5",
+    "repo": "NeuROM",
+    "labels": [
+      "tests"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3836553406,
+    "title": "[refactor] C-03 - Add Two-Step Admin Transfer",
+    "url": "https://github.com/Neko-Protocol/neko-contracts/issues/3",
+    "repo": "neko-contracts",
+    "labels": [
+      "tests",
+      "refactor",
+      "contract",
+      "critical",
+      "stellar wave"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3975089072,
+    "title": "[refactor] M-04 - Add Staleness Check Helper for lastprice",
+    "url": "https://github.com/Neko-Protocol/neko-contracts/issues/17",
+    "repo": "neko-contracts",
+    "labels": [
+      "tests",
+      "refactor",
+      "contract",
+      "medium"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3836550314,
+    "title": "[refactor] C-02 - Add Constructor Parameter Validation",
+    "url": "https://github.com/Neko-Protocol/neko-contracts/issues/2",
+    "repo": "neko-contracts",
+    "labels": [
+      "tests",
+      "refactor",
+      "contract",
+      "critical",
+      "stellar wave"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3926521738,
+    "title": "[CI] Run tests on ARM",
+    "url": "https://github.com/enthought/comtypes/issues/925",
+    "repo": "comtypes",
+    "labels": [
+      "tests",
+      "ci"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3969719068,
+    "title": "[refactor] M-02 - Validate Metadata asset_id Matches Parameter",
+    "url": "https://github.com/Neko-Protocol/neko-contracts/issues/5",
+    "repo": "neko-contracts",
+    "labels": [
+      "tests",
+      "refactor",
+      "contract",
+      "medium",
+      "stellar wave"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3836537729,
+    "title": "[refactor] C-01 - Add Emergency Pause Mechanism",
+    "url": "https://github.com/Neko-Protocol/neko-contracts/issues/1",
+    "repo": "neko-contracts",
+    "labels": [
+      "tests",
+      "refactor",
+      "contract",
+      "critical",
+      "stellar wave"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3975090111,
+    "title": "[refactor] M-05 - Add Graceful Error Handling for Storage Access",
+    "url": "https://github.com/Neko-Protocol/neko-contracts/issues/18",
+    "repo": "neko-contracts",
+    "labels": [
+      "tests",
+      "refactor",
+      "contract",
+      "medium"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3963968439,
+    "title": "[meta] Flaky tests",
+    "url": "https://github.com/modelcontextprotocol/kotlin-sdk/issues/550",
+    "repo": "kotlin-sdk",
+    "labels": [
+      "bug",
+      "tests"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3978581291,
+    "title": "Add more tests for UserList, UserDict, etc",
+    "url": "https://github.com/python/cpython/issues/145144",
+    "repo": "cpython",
+    "labels": [
+      "type-feature",
+      "tests",
+      "3.13",
+      "3.14",
+      "3.15"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3977870294,
+    "title": "ios: add behavioral tests for open/assert/query and failure paths",
+    "url": "https://github.com/kronroe/kronroe/issues/34",
+    "repo": "kronroe",
+    "labels": [
+      "enhancement",
+      "phase-1",
+      "ios",
+      "tests",
+      "crates/ios"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3905895942,
+    "title": "Add more logging to DB SQLite unit tests",
+    "url": "https://github.com/cardano-foundation/cardano-wallet/issues/5103",
+    "repo": "cardano-wallet",
+    "labels": [
+      "tests"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3977762239,
+    "title": "feat: update tests for Amp SDK agent integration",
+    "url": "https://github.com/multivmlabs/ralph-starter/issues/239",
+    "repo": "ralph-starter",
+    "labels": [
+      "enhancement",
+      "tests"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3977610580,
+    "title": "Add tests for unique not relational fields",
+    "url": "https://github.com/OpenSlides/openslides-backend/issues/3353",
+    "repo": "openslides-backend",
+    "labels": [
+      "tests"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3944451352,
+    "title": "Add tests for refactored application and rewrite tests to C#",
+    "url": "https://github.com/TienCamLy/MiniTwit/issues/6",
+    "repo": "MiniTwit",
+    "labels": [
+      "tests"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3977122370,
+    "title": "RDBMS weekly test should make use of realistic tests",
+    "url": "https://github.com/camunda/camunda/issues/46439",
+    "repo": "camunda",
+    "labels": [
+      "area/test",
+      "kind/task",
+      "tests",
+      "needs component label"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3812533828,
+    "title": "[EPIC]: Extend existing weekly tests",
+    "url": "https://github.com/camunda/camunda/issues/43995",
+    "repo": "camunda",
+    "labels": [
+      "kind/epic",
+      "area/reliability",
+      "area/test",
+      "tests"
+    ],
+    "score": 15
+  },
+  {
+    "id": 2596091966,
+    "title": "Create more unit tests",
+    "url": "https://github.com/learning-unlimited/ESP-Website/issues/3780",
+    "repo": "ESP-Website",
+    "labels": [
+      "infrastructure",
+      "tests",
+      "starter",
+      "gsoc 2026"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3793076155,
+    "title": "Capsule Update using CapsuleApp.efi fails *sometimes*",
+    "url": "https://github.com/Dasharo/dasharo-issues/issues/1730",
+    "repo": "dasharo-issues",
+    "labels": [
+      "bug",
+      "needs review",
+      "needs testing",
+      "needs reproduction"
+    ],
+    "score": 15
+  },
+  {
+    "id": 2972518497,
+    "title": "V54: BIOS settings are randomly reset",
+    "url": "https://github.com/Dasharo/dasharo-issues/issues/1293",
+    "repo": "dasharo-issues",
+    "labels": [
+      "bug",
+      "firmware",
+      "novacustom_v54_mtl",
+      "needs testing"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3981284435,
+    "title": "Test Quality: Fix flaky test patterns (sleep/timing)",
+    "url": "https://github.com/T-rav/hyrda/issues/1043",
+    "repo": "hyrda",
+    "labels": [
+      "hydraflow-hitl"
+    ],
+    "score": 15
+  },
+  {
+    "id": 3982331580,
+    "title": "Task: enforce live E2E fail-closed execution in CI with local Kolme orchestration",
+    "url": "https://github.com/njfio/kamn/issues/5868",
+    "repo": "kamn",
+    "labels": [
+      "type:task",
+      "priority:p1",
+      "area:qa",
+      "process:tdd",
+      "status:specifying",
+      "process:spec-driven"
+    ],
+    "score": 15
+  },
+  {
+    "id": 367645405,
+    "title": "Doesn't work with extras_require and tests_require",
+    "url": "https://github.com/tox-dev/pipdeptree/issues/107",
+    "repo": "pipdeptree",
+    "labels": [
+      "bug",
+      "help-wanted"
+    ],
+    "score": 15
+  },
+  {
+    "id": 338404368,
+    "title": "tests shouldn't require X",
+    "url": "https://github.com/astroidmail/astroid/issues/516",
+    "repo": "astroid",
+    "labels": [
+      "help-wanted"
+    ],
+    "score": 15
+  }
+]

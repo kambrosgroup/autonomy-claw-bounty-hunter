@@ -1,0 +1,1126 @@
+[
+  {
+    "id": 3803187044,
+    "title": "[Trivy] gastown-dev: 1 critical vulnerability,13 high vulnerabilities found",
+    "url": "https://github.com/anthony-spruyt/container-images/issues/115",
+    "repo": "container-images",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "trivy",
+      "high",
+      "medium",
+      "critical"
+    ],
+    "is_security": true,
+    "score": 80,
+    "platform": "github"
+  },
+  {
+    "id": 3832251235,
+    "title": "[Trivy] megalinter-container-images: 2 critical vulnerabilities,26 high vulnerabilities found",
+    "url": "https://github.com/anthony-spruyt/container-images/issues/217",
+    "repo": "container-images",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "trivy",
+      "high",
+      "medium",
+      "critical"
+    ],
+    "is_security": true,
+    "score": 80,
+    "platform": "github"
+  },
+  {
+    "id": 3863807402,
+    "title": "[Trivy] megalinter-xfg: 2 critical vulnerabilities,26 high vulnerabilities found",
+    "url": "https://github.com/anthony-spruyt/container-images/issues/310",
+    "repo": "container-images",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "trivy",
+      "high",
+      "medium",
+      "critical"
+    ],
+    "is_security": true,
+    "score": 80,
+    "platform": "github"
+  },
+  {
+    "id": 3859035775,
+    "title": "[Trivy] megalinter-claude-config: 2 critical vulnerabilities,26 high vulnerabilities found",
+    "url": "https://github.com/anthony-spruyt/container-images/issues/278",
+    "repo": "container-images",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "trivy",
+      "high",
+      "medium",
+      "critical"
+    ],
+    "is_security": true,
+    "score": 80,
+    "platform": "github"
+  },
+  {
+    "id": 3803693225,
+    "title": "[Trivy] firemerge: 1 critical vulnerability,6 high vulnerabilities found",
+    "url": "https://github.com/anthony-spruyt/container-images/issues/127",
+    "repo": "container-images",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "trivy",
+      "high",
+      "medium",
+      "critical"
+    ],
+    "is_security": true,
+    "score": 80,
+    "platform": "github"
+  },
+  {
+    "id": 3960926083,
+    "title": "\ud83d\udea8 Critical Security Vulnerabilities Detected (0 Critical, 1 High)",
+    "url": "https://github.com/XiSenao/docs-islands/issues/52",
+    "repo": "docs-islands",
+    "bounty_amount": null,
+    "labels": [
+      "automated",
+      "security",
+      "critical"
+    ],
+    "is_security": true,
+    "score": 80,
+    "platform": "github"
+  },
+  {
+    "id": 3287874691,
+    "title": "\ud83d\udd10 Secure Infrastructure Configuration & Secrets Management",
+    "url": "https://github.com/idealase/idealase.github.io/issues/24",
+    "repo": "idealase.github.io",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "critical",
+      "infrastructure",
+      "secrets",
+      "devops"
+    ],
+    "is_security": true,
+    "score": 50,
+    "platform": "github"
+  },
+  {
+    "id": 3977193078,
+    "title": "\u26a0\ufe0f high security issue [dependabot-30] in rack",
+    "url": "https://github.com/PipelineDeals/mantle/issues/36",
+    "repo": "mantle",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "high"
+    ],
+    "is_security": true,
+    "score": 30,
+    "platform": "github"
+  },
+  {
+    "id": 1142478572,
+    "title": "lerna-4.0.0.tgz: 38 vulnerabilities (highest severity is: 9.8)",
+    "url": "https://github.com/yydso/origin.js/issues/3",
+    "repo": "origin.js",
+    "bounty_amount": null,
+    "labels": [
+      "mend: dependency security vulnerability"
+    ],
+    "is_security": true,
+    "score": 30,
+    "platform": "github"
+  },
+  {
+    "id": 1205017229,
+    "title": "forever-2.0.0.tgz: 27 vulnerabilities (highest severity is: 9.8)",
+    "url": "https://github.com/timf-app-demo/nodeg2/issues/2",
+    "repo": "nodeg2",
+    "bounty_amount": null,
+    "labels": [
+      "mend: dependency security vulnerability"
+    ],
+    "is_security": true,
+    "score": 30,
+    "platform": "github"
+  },
+  {
+    "id": 1643039359,
+    "title": "forever-2.0.0.tgz: 32 vulnerabilities (highest severity is: 9.8)",
+    "url": "https://github.com/Uncleken13/NodeGoat/issues/11",
+    "repo": "NodeGoat",
+    "bounty_amount": null,
+    "labels": [
+      "mend: dependency security vulnerability"
+    ],
+    "is_security": true,
+    "score": 30,
+    "platform": "github"
+  },
+  {
+    "id": 1578282540,
+    "title": "core-2.3.1.tgz: 56 vulnerabilities (highest severity is: 9.8)",
+    "url": "https://github.com/ScalaConsultants/mesmer/issues/592",
+    "repo": "mesmer",
+    "bounty_amount": null,
+    "labels": [
+      "mend: dependency security vulnerability"
+    ],
+    "is_security": true,
+    "score": 30,
+    "platform": "github"
+  },
+  {
+    "id": 3967702586,
+    "title": "Free BetAndYou Promo Code 2026: VIP Bonus \u20ac/$130",
+    "url": "https://github.com/whahs5024/finds-ly/issues/328",
+    "repo": "finds-ly",
+    "bounty_amount": 130.0,
+    "labels": [],
+    "is_security": true,
+    "score": 1.3,
+    "platform": "github"
+  },
+  {
+    "id": 3982332061,
+    "title": "feat: SCA \u2014 Check discovered dependencies against OSV/NVD vulnerability databases",
+    "url": "https://github.com/alperduzgun/warden-core/issues/96",
+    "repo": "warden-core",
+    "bounty_amount": null,
+    "labels": [
+      "enhancement",
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3971362474,
+    "title": "Unsanitized {@html} rendering of API data creates XSS vulnerability in Knowledge Panels",
+    "url": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/931",
+    "repo": "openfoodfacts-explorer",
+    "bounty_amount": null,
+    "labels": [
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3982169257,
+    "title": "[Security] External dependency on via.placeholder.com for fallback images",
+    "url": "https://github.com/LOVEWE-sketch/galaxy-sports-management/issues/7",
+    "repo": "galaxy-sports-management",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "vulnerability",
+      "supply-chain"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3982169232,
+    "title": "[Security] Google Fonts loaded without Subresource Integrity (SRI)",
+    "url": "https://github.com/LOVEWE-sketch/galaxy-sports-management/issues/6",
+    "repo": "galaxy-sports-management",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "vulnerability",
+      "supply-chain"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3982169174,
+    "title": "[Security] Reverse tabnabbing: target=\"_blank\" links missing rel=\"noopener noreferrer\"",
+    "url": "https://github.com/LOVEWE-sketch/galaxy-sports-management/issues/4",
+    "repo": "galaxy-sports-management",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "vulnerability",
+      "tabnabbing"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3982169201,
+    "title": "[Security] Inline JavaScript event handlers prevent CSP enforcement",
+    "url": "https://github.com/LOVEWE-sketch/galaxy-sports-management/issues/5",
+    "repo": "galaxy-sports-management",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "vulnerability",
+      "xss",
+      "csp"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3982164900,
+    "title": "[Security] Open redirect via window.contactRedirectUrl",
+    "url": "https://github.com/LOVEWE-sketch/galaxy-sports-management/issues/3",
+    "repo": "galaxy-sports-management",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "vulnerability",
+      "open-redirect"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3982164873,
+    "title": "[Security] Missing Content Security Policy (CSP) header",
+    "url": "https://github.com/LOVEWE-sketch/galaxy-sports-management/issues/2",
+    "repo": "galaxy-sports-management",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "vulnerability",
+      "configuration"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3982164840,
+    "title": "[Security] XSS: innerHTML with unsanitized JSON data across multiple JS files",
+    "url": "https://github.com/LOVEWE-sketch/galaxy-sports-management/issues/1",
+    "repo": "galaxy-sports-management",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "vulnerability",
+      "xss"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 2852851511,
+    "title": "CVE Dashboard",
+    "url": "https://github.com/defenseunicorns/uds-core/issues/1283",
+    "repo": "uds-core",
+    "bounty_amount": null,
+    "labels": [
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3981603632,
+    "title": "SECURITY: API routes missing entity membership + role permission checks",
+    "url": "https://github.com/trunghuynh92/Financeapp/issues/27",
+    "repo": "Financeapp",
+    "bounty_amount": null,
+    "labels": [
+      "bug",
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3900617966,
+    "title": "Implement API Rate Limiting for Backend Endpoints",
+    "url": "https://github.com/eccentriccoder01/Bharatshaala/issues/2",
+    "repo": "Bharatshaala",
+    "bounty_amount": null,
+    "labels": [
+      "enhancement",
+      "security",
+      "jwoc",
+      "medium"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3981423206,
+    "title": "\ud83d\udd12 [Security] Auto-fix workflow failed",
+    "url": "https://github.com/gigahidjrikaaa/UGM-AICare/issues/141",
+    "repo": "UGM-AICare",
+    "bounty_amount": null,
+    "labels": [
+      "bug",
+      "security",
+      "automated"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3976434558,
+    "title": "EDU-JUICESHOP-2026-T06-005",
+    "url": "https://github.com/pentestwise2526-lab/WiSe-2025-2026/issues/67",
+    "repo": "WiSe-2025-2026",
+    "bounty_amount": null,
+    "labels": [
+      "cve",
+      "pending review"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3976076746,
+    "title": "CVE(s) found",
+    "url": "https://github.com/buildpacks/pack/issues/2531",
+    "repo": "pack",
+    "bounty_amount": null,
+    "labels": [
+      "type/bug",
+      "status/triage",
+      "cve"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3975561999,
+    "title": "EDU-WEBLAB-2026-T07-004",
+    "url": "https://github.com/pentestwise2526-lab/WiSe-2025-2026/issues/66",
+    "repo": "WiSe-2025-2026",
+    "bounty_amount": null,
+    "labels": [
+      "cve",
+      "pending review"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3975549697,
+    "title": "EDU-WEBLAB-2026-T07-003",
+    "url": "https://github.com/pentestwise2526-lab/WiSe-2025-2026/issues/65",
+    "repo": "WiSe-2025-2026",
+    "bounty_amount": null,
+    "labels": [
+      "cve",
+      "pending review"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3960368722,
+    "title": "EDU-WEBLAB-2026-T07-001",
+    "url": "https://github.com/pentestwise2526-lab/WiSe-2025-2026/issues/54",
+    "repo": "WiSe-2025-2026",
+    "bounty_amount": null,
+    "labels": [
+      "cve",
+      "pending review"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3960386236,
+    "title": "EDU-WEBLAB-2026-2026-T07-002",
+    "url": "https://github.com/pentestwise2526-lab/WiSe-2025-2026/issues/55",
+    "repo": "WiSe-2025-2026",
+    "bounty_amount": null,
+    "labels": [
+      "cve",
+      "pending review"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3975503047,
+    "title": "EDU-JUICESHOP-2026-T04-002",
+    "url": "https://github.com/pentestwise2526-lab/WiSe-2025-2026/issues/62",
+    "repo": "WiSe-2025-2026",
+    "bounty_amount": null,
+    "labels": [
+      "cve",
+      "pending review"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3975507574,
+    "title": "EDU-JUICESHOP-2026-T04-003",
+    "url": "https://github.com/pentestwise2526-lab/WiSe-2025-2026/issues/63",
+    "repo": "WiSe-2025-2026",
+    "bounty_amount": null,
+    "labels": [
+      "cve",
+      "pending review"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3975416109,
+    "title": "EDU-WEBLAB-2026-T05-005",
+    "url": "https://github.com/pentestwise2526-lab/WiSe-2025-2026/issues/61",
+    "repo": "WiSe-2025-2026",
+    "bounty_amount": null,
+    "labels": [
+      "cve",
+      "pending review"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3975407878,
+    "title": "EDU-WEBLAB-2026-T05-004",
+    "url": "https://github.com/pentestwise2526-lab/WiSe-2025-2026/issues/60",
+    "repo": "WiSe-2025-2026",
+    "bounty_amount": null,
+    "labels": [
+      "cve",
+      "pending review"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3975399858,
+    "title": "EDU-WEBLAB-2026-T05-003",
+    "url": "https://github.com/pentestwise2526-lab/WiSe-2025-2026/issues/59",
+    "repo": "WiSe-2025-2026",
+    "bounty_amount": null,
+    "labels": [
+      "cve",
+      "pending review"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3975391196,
+    "title": "EDU-WEBLAB-2026-T05-002",
+    "url": "https://github.com/pentestwise2526-lab/WiSe-2025-2026/issues/58",
+    "repo": "WiSe-2025-2026",
+    "bounty_amount": null,
+    "labels": [
+      "cve",
+      "pending review"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3975383233,
+    "title": "EDU-WEBLAB-2026-T05-001",
+    "url": "https://github.com/pentestwise2526-lab/WiSe-2025-2026/issues/57",
+    "repo": "WiSe-2025-2026",
+    "bounty_amount": null,
+    "labels": [
+      "cve",
+      "pending review"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3974582431,
+    "title": "EDU-PROTOPOLLUTE-2026-T03-009",
+    "url": "https://github.com/pentestwise2526-lab/WiSe-2025-2026/issues/56",
+    "repo": "WiSe-2025-2026",
+    "bounty_amount": null,
+    "labels": [
+      "cve",
+      "pending review"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3970794271,
+    "title": "Library zlib has vulnerability CVE-2026-27171",
+    "url": "https://github.com/osquery/osquery/issues/8778",
+    "repo": "osquery",
+    "bounty_amount": null,
+    "labels": [
+      "libraries",
+      "security",
+      "cve",
+      "severity-low"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3960751894,
+    "title": "CVE(s) found",
+    "url": "https://github.com/buildpacks/pack/issues/2529",
+    "repo": "pack",
+    "bounty_amount": null,
+    "labels": [
+      "type/bug",
+      "status/triage",
+      "cve"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3959175871,
+    "title": "[Argus] CVE-2014-0322: Microsoft Internet Explorer 9 \ubc0f 10\uc758 use-after-free \ucde8\uc57d\uc810",
+    "url": "https://github.com/LEEKIYOON-SEC/Argus-AI-Threat-Intelligence/issues/37",
+    "repo": "Argus-AI-Threat-Intelligence",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "cve"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3958338920,
+    "title": "[Argus] CVE-2025-60038: Rexroth IndraWorks \uc6d0\uaca9 \ucf54\ub4dc \uc2e4\ud589 \ucde8\uc57d\uc810",
+    "url": "https://github.com/LEEKIYOON-SEC/Argus-AI-Threat-Intelligence/issues/36",
+    "repo": "Argus-AI-Threat-Intelligence",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "cve"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3958336128,
+    "title": "[Argus] CVE-2026-2329: Grandstream GXP1600 VoIP \ud3f0 - \uc778\uc99d\ub418\uc9c0 \uc54a\uc740 \uc2a4\ud0dd \ubc84\ud37c \uc624\ubc84\ud50c\ub85c\uc6b0",
+    "url": "https://github.com/LEEKIYOON-SEC/Argus-AI-Threat-Intelligence/issues/35",
+    "repo": "Argus-AI-Threat-Intelligence",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "cve"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3958333309,
+    "title": "[Argus] CVE-2025-33249: NVIDIA NeMo \ud504\ub808\uc784\uc6cc\ud06c \ucf54\ub4dc \uc0bd\uc785 \ucde8\uc57d\uc810",
+    "url": "https://github.com/LEEKIYOON-SEC/Argus-AI-Threat-Intelligence/issues/34",
+    "repo": "Argus-AI-Threat-Intelligence",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "cve"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3979614581,
+    "title": "Setup Dependabot for Dependency Updates",
+    "url": "https://github.com/lumensLabs/TrustAnchor/issues/51",
+    "repo": "TrustAnchor",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "devops"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3975603409,
+    "title": "Security Incident Tracker (Automated)",
+    "url": "https://github.com/NaniDerEchte2/Deadlock-Bots/issues/230",
+    "repo": "Deadlock-Bots",
+    "bounty_amount": null,
+    "labels": [
+      "security-incident",
+      "automated",
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3287874135,
+    "title": "Implement Security-First Development with SAST/DAST Integration",
+    "url": "https://github.com/idealase/idealase.github.io/issues/23",
+    "repo": "idealase.github.io",
+    "bounty_amount": null,
+    "labels": [
+      "enhancement",
+      "security",
+      "ci/cd",
+      "shift-left"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3981686791,
+    "title": "Scrapers cannot install nokogiri security updates due to platform limitations",
+    "url": "https://github.com/openaustralia/morph/issues/1464",
+    "repo": "morph",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "devops",
+      "buildpacks",
+      "ruby"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3981706854,
+    "title": "[P3] Dependencies pinned to 2020 versions with known CVEs",
+    "url": "https://github.com/kebab-mai-haddi/gruml/issues/65",
+    "repo": "gruml",
+    "bounty_amount": null,
+    "labels": [
+      "p3-minor",
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3980012600,
+    "title": "Setup Dependabot for Dependency Management",
+    "url": "https://github.com/Flux-DeFi/LiquidFlow/issues/58",
+    "repo": "LiquidFlow",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "devops",
+      "beta-campaign"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3980822017,
+    "title": "VASP Compliance: Add dependency vulnerability scanning to CI/CD",
+    "url": "https://github.com/theepangnani/emai-dev-03/issues/789",
+    "repo": "emai-dev-03",
+    "bounty_amount": null,
+    "labels": [
+      "priority:high",
+      "security",
+      "infrastructure",
+      "phase-2",
+      "compliance"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3978297138,
+    "title": "Investigate replacing scrubadub in data anonymizer",
+    "url": "https://github.com/poindexter12/maxwells-wallet/issues/213",
+    "repo": "maxwells-wallet",
+    "bounty_amount": null,
+    "labels": [
+      "dependencies",
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3977192128,
+    "title": "\u26a0\ufe0f medium security issue [dependabot-31] in rack",
+    "url": "https://github.com/PipelineDeals/mantle/issues/35",
+    "repo": "mantle",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "medium"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3976803246,
+    "title": "Security: devalue DoS vulnerability (CPU/memory amplification)",
+    "url": "https://github.com/Mixxy-Studio/TomaNote/issues/19",
+    "repo": "TomaNote",
+    "bounty_amount": null,
+    "labels": [
+      "bug",
+      "dependencies",
+      "warning",
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3976792740,
+    "title": "Security: devalue prototype pollution vulnerability (update blocked)",
+    "url": "https://github.com/Mixxy-Studio/TomaNote/issues/18",
+    "repo": "TomaNote",
+    "bounty_amount": null,
+    "labels": [
+      "bug",
+      "dependencies",
+      "warning",
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3976773339,
+    "title": "Security: ajv vulnerable to ReDoS (update blocked by invalid lockfile)",
+    "url": "https://github.com/Mixxy-Studio/TomaNote/issues/17",
+    "repo": "TomaNote",
+    "bounty_amount": null,
+    "labels": [
+      "bug",
+      "dependencies",
+      "warning",
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3975735955,
+    "title": "\ud83d\udea8 Security vulnerabilities detected - 2026-02-23",
+    "url": "https://github.com/knishioka/simple-bookkeeping/issues/593",
+    "repo": "simple-bookkeeping",
+    "bounty_amount": null,
+    "labels": [
+      "dependencies",
+      "security",
+      "urgent"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3975603372,
+    "title": "Security Incident Tracker (Automated)",
+    "url": "https://github.com/NaniDerEchte2/Deadlock-Bots/issues/229",
+    "repo": "Deadlock-Bots",
+    "bounty_amount": null,
+    "labels": [
+      "security-incident",
+      "automated",
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3670025549,
+    "title": "proposal: support dependency cooldown in Go tooling",
+    "url": "https://github.com/golang/go/issues/76485",
+    "repo": "go",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "proposal",
+      "toolproposal"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3973556391,
+    "title": "[DEX] DataSecOps \u2014 SBOM + Trivy container scanning (v0.6.3)",
+    "url": "https://github.com/TheDataEngineX/DEX/issues/97",
+    "repo": "DEX",
+    "bounty_amount": null,
+    "labels": [
+      "enhancement",
+      "p2-medium",
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 1243785736,
+    "title": "Dependency Dashboard",
+    "url": "https://github.com/TheKingTermux/alice/issues/21",
+    "repo": "alice",
+    "bounty_amount": null,
+    "labels": [
+      "dependencies",
+      "bot update",
+      "auto updated",
+      "auto re-open",
+      "do-not-autoclose",
+      "security",
+      "auto create issues"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3973474324,
+    "title": "SOC 2: technical controls \u2014 vulnerability management and backup/recovery testing",
+    "url": "https://github.com/wopr-network/wopr/issues/1123",
+    "repo": "wopr",
+    "bounty_amount": null,
+    "labels": [
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3972915318,
+    "title": "Add Dependabot configuration for Go and GitHub Actions",
+    "url": "https://github.com/rybkr/gitvista/issues/46",
+    "repo": "gitvista",
+    "bounty_amount": null,
+    "labels": [
+      "security",
+      "infrastructure",
+      "p2"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3980784168,
+    "title": "\ud83d\udd12 Security Sweep \u2014 Feb 24",
+    "url": "https://github.com/Kalaith/wh_frontpage/issues/35",
+    "repo": "wh_frontpage",
+    "bounty_amount": null,
+    "labels": [
+      "quest",
+      "difficulty:medium",
+      "xp:medium"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3929634298,
+    "title": "[LEDGER] Bounty Payout Ledger \u2014 Queued / Pending / Confirmed",
+    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/104",
+    "repo": "rustchain-bounties",
+    "bounty_amount": null,
+    "labels": [
+      "bounty",
+      "open",
+      "maintenance"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3968422014,
+    "title": "[BOUNTY] First Attest Bonus (Latest Miner Required) - 5 RTC",
+    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/374",
+    "repo": "rustchain-bounties",
+    "bounty_amount": null,
+    "labels": [
+      "bounty",
+      "open",
+      "micro",
+      "multi-claim",
+      "propagation",
+      "community"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3156783246,
+    "title": "Set up an AI product",
+    "url": "https://github.com/1712n/dn-institute/issues/489",
+    "repo": "dn-institute",
+    "bounty_amount": null,
+    "labels": [
+      "\ud83d\udcb0 bounty",
+      "difficulty \u2b50\u2b50",
+      "$500",
+      "data science"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3982105488,
+    "title": "Bounty Program: UX/Flow Polish for Existing Features",
+    "url": "https://github.com/open-mercato/open-mercato/issues/699",
+    "repo": "open-mercato",
+    "bounty_amount": null,
+    "labels": [],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 586249205,
+    "title": "Allow users to turn off TLS verification or use their own certs",
+    "url": "https://github.com/nextcloud/mail/issues/2785",
+    "repo": "mail",
+    "bounty_amount": null,
+    "labels": [
+      "enhancement",
+      "1. to develop",
+      "security"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 1703571139,
+    "title": "[Proposal] Support configuring permissions of automatic tokens of Actions jobs",
+    "url": "https://github.com/go-gitea/gitea/issues/24635",
+    "repo": "gitea",
+    "bounty_amount": null,
+    "labels": [
+      "type/proposal",
+      "topic/gitea-actions",
+      "\ud83d\udc8e bounty",
+      "$100"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3904303864,
+    "title": "[BOUNTY] Ongoing Bug Bounty Program \u2014 Find Bugs, Earn RTC (200 RTC Pool)",
+    "url": "https://github.com/Scottcjn/rustchain-bounties/issues/71",
+    "repo": "rustchain-bounties",
+    "bounty_amount": 0.0,
+    "labels": [
+      "bug",
+      "bounty",
+      "open"
+    ],
+    "is_security": true,
+    "score": 0.0,
+    "platform": "github"
+  },
+  {
+    "id": 353099798,
+    "title": "Elite Dangerous (359320)",
+    "url": "https://github.com/ValveSoftware/Proton/issues/150",
+    "repo": "Proton",
+    "bounty_amount": null,
+    "labels": [
+      "game compatibility - unofficial",
+      "regression",
+      "nvidia drivers",
+      "mesa drivers",
+      ".net",
+      "amd radv"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 3974962584,
+    "title": "feat: add autonomous loop onboarding flow via skills add",
+    "url": "https://github.com/aibtcdev/landing-page/issues/252",
+    "repo": "landing-page",
+    "bounty_amount": null,
+    "labels": [],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  },
+  {
+    "id": 1767947966,
+    "title": "Error when Jade is being used by a different app can lead Specter to crash",
+    "url": "https://github.com/cryptoadvance/specter-desktop/issues/2343",
+    "repo": "specter-desktop",
+    "bounty_amount": null,
+    "labels": [
+      "bug",
+      "hw_jade",
+      "bug-bounty"
+    ],
+    "is_security": true,
+    "score": 0,
+    "platform": "github"
+  }
+]
