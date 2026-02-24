@@ -53,3 +53,5 @@ HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
 
 # Default command
 CMD ["python3", "/app/container_entry.py"]
+
+# Trigger build: Tue Feb 24 06:04:29 PM CST 2026
