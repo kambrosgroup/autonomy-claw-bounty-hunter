@@ -1,0 +1,16 @@
+[
+  {
+    "bounty": {
+      "title": "Add CHANGELOG.md following Keep a Changelog conventions",
+      "body": "Need to add a changelog file to track changes",
+      "url": "https://github.com/OtowoOrg/Stellar-K8s/issues/158",
+      "score": 40,
+      "confidence": 0.9
+    },
+    "pr_url": "https://github.com/OtowoOrg/Stellar-K8s/pull/198",
+    "changes": [
+      "Created CHANGELOG.md",
+      "Fixed README formatting"
+    ]
+  }
+]
